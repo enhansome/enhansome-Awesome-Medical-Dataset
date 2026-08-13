@@ -1,0 +1,271 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Imaging"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Whole Body"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Head and Neck"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Chest"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Abdomen"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Heart"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Bones"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Endoscopy"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Retina"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Skin"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Microscopic imaging"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Image text dataset"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Text dataset"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SegLossOdyssey",
+          "description": "A collection of loss functions for medical image segmentation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-01T23:10:13Z",
+            "owner": "JunMa11",
+            "repo": "SegLossOdyssey",
+            "stars": 4009
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-healthcare",
+          "description": "Curated list of awesome open source healthcare software, libraries, tools and resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-05T10:41:03Z",
+            "owner": "kakoni",
+            "repo": "awesome-healthcare",
+            "stars": 3935
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome_Chinese_medical_NLP",
+          "description": "中文医学NLP公开资源整理：术语集/语料库/词向量/预训练模型/知识图谱/命名实体识别/QA/信息抽取/模型/论文/etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-01-17T06:47:55Z",
+            "owner": "GanjinZero",
+            "repo": "awesome_Chinese_medical_NLP",
+            "stars": 2619
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-gan-for-medical-imaging",
+          "description": "Awesome GAN for Medical Imaging.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-05-29T21:59:19Z",
+            "owner": "xinario",
+            "repo": "awesome-gan-for-medical-imaging",
+            "stars": 2362
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome-Diffusion-Models-in-Medical-Imaging",
+          "description": "Diffusion Models in Medical Imaging (Published in Medical Image Analysis Journal).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-11-17T17:13:18Z",
+            "owner": "amirhossein-kz",
+            "repo": "Awesome-Diffusion-Models-in-Medical-Imaging",
+            "stars": 2110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SOTA-MedSeg",
+          "description": "SOTA medical image segmentation methods based on various challenges.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-12-12T02:58:36Z",
+            "owner": "JunMa11",
+            "repo": "SOTA-MedSeg",
+            "stars": 1677
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-transformers-in-medical-imaging",
+          "description": "A collection of resources on applications of Transformers in Medical Imaging.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-21T11:56:54Z",
+            "owner": "fahadshamshad",
+            "repo": "awesome-transformers-in-medical-imaging",
+            "stars": 1296
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-multimodal-in-medical-imaging",
+          "description": "A collection of resources on applications of multi-modal learning in medical imaging.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-29T17:00:12Z",
+            "owner": "richard-peng-xia",
+            "repo": "awesome-multimodal-in-medical-imaging",
+            "stars": 976
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome-CLIP-in-Medical-Imaging",
+          "description": "A Survey on CLIP in Medical Imaging.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-03-26T06:24:32Z",
+            "owner": "zhaozh10",
+            "repo": "Awesome-CLIP-in-Medical-Imaging",
+            "stars": 515
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome-Medical-Large-Language-Models",
+          "description": "Curated papers on Large Language Models in Healthcare and Medical domain.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-29T16:58:40Z",
+            "owner": "burglarhobbit",
+            "repo": "Awesome-Medical-Large-Language-Models",
+            "stars": 393
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-medical-vision-language-models",
+          "description": "A collection of resources on Medical Vision-Language Models.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-12-23T05:22:07Z",
+            "owner": "yangzhou12",
+            "repo": "awesome-medical-vision-language-models",
+            "stars": 110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Data-Centric-FM-Healthcare",
+          "description": "A survey on data-centric foundation models in computational healthcare.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-10-08T04:23:50Z",
+            "owner": "openmedlab",
+            "repo": "Data-Centric-FM-Healthcare",
+            "stars": 30
+          }
+        }
+      ],
+      "title": "Other Medical Awesome Collection Projects"
+    },
+    {
+      "description": "Noted: Many of the datasets collected in this project are benchmarks on the data platform. This section collects comprehensive benchmarks specifically used to evaluate model performance.",
+      "items": [],
+      "title": "Evaluation Benchmark"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "SOTA Methods"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Segmentation"
+    },
+    {
+      "description": "Many of the papers that use the datasets collected in this project have their code written based on the following Github code project.",
+      "items": [],
+      "title": "Related Foundation Toolbox Projects"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:03:20.861Z",
+    "original_repository": "openmedlab/Awesome-Medical-Dataset",
+    "original_repository_sha": "507ef7645e6abd254995aa72deb9a04393a11a98",
+    "enhanced_repository": "enhansome/enhansome-Awesome-Medical-Dataset",
+    "enhanced_repository_description": null,
+    "title": "Awesome-Medical-Dataset with stars"
+  }
+}
