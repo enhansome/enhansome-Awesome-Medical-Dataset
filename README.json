@@ -79,7 +79,7 @@
             "last_commit": "2023-11-01T23:10:13Z",
             "owner": "JunMa11",
             "repo": "SegLossOdyssey",
-            "stars": 4009
+            "stars": 4008
           }
         },
         {
@@ -93,7 +93,7 @@
             "last_commit": "2026-05-05T10:41:03Z",
             "owner": "kakoni",
             "repo": "awesome-healthcare",
-            "stars": 3935
+            "stars": 3937
           }
         },
         {
@@ -261,7 +261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:03:20.861Z",
+    "last_updated": "2026-08-13T12:35:49.052Z",
     "original_repository": "openmedlab/Awesome-Medical-Dataset",
     "original_repository_sha": "507ef7645e6abd254995aa72deb9a04393a11a98",
     "enhanced_repository": "enhansome/enhansome-Awesome-Medical-Dataset",
