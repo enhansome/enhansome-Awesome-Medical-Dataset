@@ -93,7 +93,7 @@
             "last_commit": "2026-05-05T10:41:03Z",
             "owner": "kakoni",
             "repo": "awesome-healthcare",
-            "stars": 3939
+            "stars": 3940
           }
         },
         {
@@ -135,7 +135,7 @@
             "last_commit": "2025-11-17T17:13:18Z",
             "owner": "amirhossein-kz",
             "repo": "Awesome-Diffusion-Models-in-Medical-Imaging",
-            "stars": 2109
+            "stars": 2108
           }
         },
         {
@@ -163,7 +163,7 @@
             "last_commit": "2026-06-21T11:56:54Z",
             "owner": "fahadshamshad",
             "repo": "awesome-transformers-in-medical-imaging",
-            "stars": 1296
+            "stars": 1295
           }
         },
         {
@@ -191,7 +191,7 @@
             "last_commit": "2025-03-26T06:24:32Z",
             "owner": "zhaozh10",
             "repo": "Awesome-CLIP-in-Medical-Imaging",
-            "stars": 515
+            "stars": 514
           }
         },
         {
@@ -261,7 +261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T12:00:18.807Z",
+    "last_updated": "2026-08-16T12:00:38.674Z",
     "original_repository": "openmedlab/Awesome-Medical-Dataset",
     "original_repository_sha": "507ef7645e6abd254995aa72deb9a04393a11a98",
     "enhanced_repository": "enhansome/enhansome-Awesome-Medical-Dataset",
