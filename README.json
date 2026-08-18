@@ -93,7 +93,7 @@
             "last_commit": "2026-05-05T10:41:03Z",
             "owner": "kakoni",
             "repo": "awesome-healthcare",
-            "stars": 3940
+            "stars": 3941
           }
         },
         {
@@ -107,7 +107,7 @@
             "last_commit": "2024-01-17T06:47:55Z",
             "owner": "GanjinZero",
             "repo": "awesome_Chinese_medical_NLP",
-            "stars": 2618
+            "stars": 2619
           }
         },
         {
@@ -149,7 +149,7 @@
             "last_commit": "2023-12-12T02:58:36Z",
             "owner": "JunMa11",
             "repo": "SOTA-MedSeg",
-            "stars": 1678
+            "stars": 1677
           }
         },
         {
@@ -177,7 +177,7 @@
             "last_commit": "2026-07-29T17:00:12Z",
             "owner": "richard-peng-xia",
             "repo": "awesome-multimodal-in-medical-imaging",
-            "stars": 975
+            "stars": 974
           }
         },
         {
@@ -261,7 +261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T12:03:08.966Z",
+    "last_updated": "2026-08-18T12:15:10.975Z",
     "original_repository": "openmedlab/Awesome-Medical-Dataset",
     "original_repository_sha": "507ef7645e6abd254995aa72deb9a04393a11a98",
     "enhanced_repository": "enhansome/enhansome-Awesome-Medical-Dataset",
