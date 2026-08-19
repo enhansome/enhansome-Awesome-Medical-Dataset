@@ -1,72 +1,7 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "Imaging"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Whole Body"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Head and Neck"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Chest"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Abdomen"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Heart"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Bones"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Endoscopy"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Retina"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Skin"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Microscopic imaging"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Image text dataset"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Text dataset"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -75,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 189437648,
             "language": "Python",
             "last_commit": "2023-11-01T23:10:13Z",
             "owner": "JunMa11",
             "repo": "SegLossOdyssey",
-            "stars": 4008
+            "stars": 4007
           }
         },
         {
@@ -89,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 52342167,
             "language": null,
             "last_commit": "2026-05-05T10:41:03Z",
             "owner": "kakoni",
@@ -103,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 218430828,
             "language": null,
             "last_commit": "2024-01-17T06:47:55Z",
             "owner": "GanjinZero",
@@ -117,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 101222904,
             "language": null,
             "last_commit": "2022-05-29T21:59:19Z",
             "owner": "xinario",
@@ -131,11 +70,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 540766853,
             "language": null,
             "last_commit": "2025-11-17T17:13:18Z",
             "owner": "amirhossein-kz",
             "repo": "Awesome-Diffusion-Models-in-Medical-Imaging",
-            "stars": 2108
+            "stars": 2109
           }
         },
         {
@@ -145,11 +85,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 90474193,
             "language": null,
             "last_commit": "2023-12-12T02:58:36Z",
             "owner": "JunMa11",
             "repo": "SOTA-MedSeg",
-            "stars": 1677
+            "stars": 1676
           }
         },
         {
@@ -159,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 434747216,
             "language": null,
             "last_commit": "2026-06-21T11:56:54Z",
             "owner": "fahadshamshad",
@@ -173,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 513534410,
             "language": null,
             "last_commit": "2026-07-29T17:00:12Z",
             "owner": "richard-peng-xia",
@@ -187,11 +130,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 721500342,
             "language": null,
             "last_commit": "2025-03-26T06:24:32Z",
             "owner": "zhaozh10",
             "repo": "Awesome-CLIP-in-Medical-Imaging",
-            "stars": 513
+            "stars": 514
           }
         },
         {
@@ -201,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 659499040,
             "language": null,
             "last_commit": "2025-05-29T16:58:40Z",
             "owner": "burglarhobbit",
@@ -215,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 556768637,
             "language": null,
             "last_commit": "2023-12-23T05:22:07Z",
             "owner": "yangzhou12",
@@ -229,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 785032433,
             "language": null,
             "last_commit": "2024-10-08T04:23:50Z",
             "owner": "openmedlab",
@@ -238,31 +185,12 @@
         }
       ],
       "title": "Other Medical Awesome Collection Projects"
-    },
-    {
-      "description": "Noted: Many of the datasets collected in this project are benchmarks on the data platform. This section collects comprehensive benchmarks specifically used to evaluate model performance.",
-      "items": [],
-      "title": "Evaluation Benchmark"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "SOTA Methods"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Segmentation"
-    },
-    {
-      "description": "Many of the papers that use the datasets collected in this project have their code written based on the following Github code project.",
-      "items": [],
-      "title": "Related Foundation Toolbox Projects"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T12:15:10.975Z",
+    "last_updated": "2026-08-19T12:09:58.327Z",
     "original_repository": "openmedlab/Awesome-Medical-Dataset",
+    "original_repository_id": 745555192,
     "original_repository_sha": "507ef7645e6abd254995aa72deb9a04393a11a98",
     "enhanced_repository": "enhansome/enhansome-Awesome-Medical-Dataset",
     "enhanced_repository_description": null,
