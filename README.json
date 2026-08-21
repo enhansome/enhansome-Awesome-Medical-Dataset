@@ -15,7 +15,7 @@
             "last_commit": "2023-11-01T23:10:13Z",
             "owner": "JunMa11",
             "repo": "SegLossOdyssey",
-            "stars": 4007
+            "stars": 4008
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-05-05T10:41:03Z",
             "owner": "kakoni",
             "repo": "awesome-healthcare",
-            "stars": 3944
+            "stars": 3946
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2024-01-17T06:47:55Z",
             "owner": "GanjinZero",
             "repo": "awesome_Chinese_medical_NLP",
-            "stars": 2619
+            "stars": 2620
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2025-05-29T16:58:40Z",
             "owner": "burglarhobbit",
             "repo": "Awesome-Medical-Large-Language-Models",
-            "stars": 393
+            "stars": 391
           }
         },
         {
@@ -188,7 +188,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T12:16:45.758Z",
+    "last_updated": "2026-08-21T12:16:02.619Z",
     "original_repository": "openmedlab/Awesome-Medical-Dataset",
     "original_repository_id": 745555192,
     "original_repository_sha": "507ef7645e6abd254995aa72deb9a04393a11a98",
