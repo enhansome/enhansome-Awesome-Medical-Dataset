@@ -1,6 +1,988 @@
 {
   "items": [
     {
+      "description": ":book: Medical Datasets\nMost of the original Chinese compilations of medical datasets come from Zhihu, GMAI of Shanghai AI Laboratory.\nIf you want to introduce or know more dataset, you are welcome to submit an issue or PR in this repo.",
+      "items": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "CT-ORG",
+                  "description": "3D CT, 140 Cases, 6 Categories of Organ Segmentation Github 2020 -",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 225482186,
+                    "language": "MATLAB",
+                    "last_commit": "2020-12-01T01:21:34Z",
+                    "owner": "bbrister",
+                    "repo": "ctOrganSegmentation",
+                    "stars": 24
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "TotalSegmentator",
+                  "description": "3D CT, 1204 Cases, 104 Categories of Whole Body Organ Segmentation Github 2022-07 -",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 449681070,
+                    "language": "Python",
+                    "last_commit": "2026-08-13T09:31:46Z",
+                    "owner": "wasserth",
+                    "repo": "TotalSegmentator",
+                    "stars": 2949
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "TotalSegmentator V2",
+                  "description": "3D CT, 1228 Cases, 117 Categories of Whole Body Organ Segmentation Github 2023 -",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 449681070,
+                    "language": "Python",
+                    "last_commit": "2026-08-13T09:31:46Z",
+                    "owner": "wasserth",
+                    "repo": "TotalSegmentator",
+                    "stars": 2949
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "MedFMC",
+                  "description": "2D, 22349 Cases, 5 Tasks of Disease Classification Github 2023-09 -",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 652092319,
+                    "language": "Python",
+                    "last_commit": "2023-11-27T02:31:48Z",
+                    "owner": "wllfore",
+                    "repo": "MedFMC_fewshot_baseline",
+                    "stars": 18
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "TotalSegmentator MRI",
+                  "description": "3D MR, 298 Cases, 56 Categories of Whole Body Organ Segmentation Github 2024-05 -",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 449681070,
+                    "language": "Python",
+                    "last_commit": "2026-08-13T09:31:46Z",
+                    "owner": "wasserth",
+                    "repo": "TotalSegmentator",
+                    "stars": 2949
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Whole Body"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Teeth3DS",
+                  "description": "3D IOS, 1800 Cases, 32 Categories of Teeth Segmentation Github 2022-10 MICCAI'2022",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 536738887,
+                    "language": "Python",
+                    "last_commit": "2022-09-14T20:37:25Z",
+                    "owner": "DCBIA-OrthoLab",
+                    "repo": "3DTeethSeg22_challenge",
+                    "stars": 20
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "TN3K",
+                  "description": "2D Ultrasound, 3494 Cases, 1 Category of Thyroid Nodule Segmentation Github 2021-05 ISBI'2021",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 337971006,
+                    "language": "Python",
+                    "last_commit": "2025-03-18T09:21:27Z",
+                    "owner": "haifangong",
+                    "repo": "TRFE-Net-for-thyroid-nodule-segmentation",
+                    "stars": 137
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "TG3K",
+                  "description": "2D Ultrasound, 3585 Cases, 1 Category of Thyroid Nodule Segmentation Github 2022-12 ISBI'2021",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 337971006,
+                    "language": "Python",
+                    "last_commit": "2025-03-18T09:21:27Z",
+                    "owner": "haifangong",
+                    "repo": "TRFE-Net-for-thyroid-nodule-segmentation",
+                    "stars": 137
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Head and Neck"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "COVIDGR",
+                  "description": "2D X-Ray, 852 Cases, 2 Categories Pneumonia Classification Github 2020-12 -",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 267544703,
+                    "language": null,
+                    "last_commit": "2020-09-23T11:44:39Z",
+                    "owner": "ari-dasci",
+                    "repo": "OD-covidgr",
+                    "stars": 17
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Chest"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "CRAG",
+                  "description": "2D Pathology, 213 Cases, 1 Category of Colorectal Adenocarcinoma Segmentation Github 2019 -",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 436144181,
+                    "language": "Python",
+                    "last_commit": "2022-01-29T01:03:41Z",
+                    "owner": "XiaoyuZHK",
+                    "repo": "CRAG-Dataset_Aug_ToCOCO",
+                    "stars": 10
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "AbdomenCT-1K",
+                  "description": "3D CT, 1112 Cases, 4 Categories of Abdominal Organ Segmentation Github 2021-07 -",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 307948153,
+                    "language": "Python",
+                    "last_commit": "2023-11-26T20:13:45Z",
+                    "owner": "JunMa11",
+                    "repo": "AbdomenCT-1K",
+                    "stars": 267
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "WORD",
+                  "description": "3D CT, 150 Cases, 16 Categories of Abdominal Organ Segmentation Github 2021-11 -",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 422798260,
+                    "language": "Python",
+                    "last_commit": "2024-09-04T05:58:16Z",
+                    "owner": "HiLab-git",
+                    "repo": "WORD",
+                    "stars": 183
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "LLD-MMRI2023",
+                  "description": "3D MRI, 394 Cases, Liver Lesion Detection Github 2023-02 MICCAI'2023",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 572798199,
+                    "language": "Python",
+                    "last_commit": "2024-03-15T08:43:54Z",
+                    "owner": "LMMMEng",
+                    "repo": "LLD-MMRI2023",
+                    "stars": 108
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "AbdomenAtlas 1.0 Mini",
+                  "description": "3D CT, 5195 Cases, 9 Categories of Abdominal Organ Segmentation Github 2024-02 -",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 597551993,
+                    "language": "Python",
+                    "last_commit": "2025-11-24T03:38:13Z",
+                    "owner": "MrGiovanni",
+                    "repo": "AbdomenAtlas",
+                    "stars": 308
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Abdomen"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ImageCAS",
+                  "description": "3D CTA, 1000 Cases, 1 Category of Coronary Artery Segmentation Github 2023 -",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 488908420,
+                    "language": null,
+                    "last_commit": "2023-11-02T09:30:22Z",
+                    "owner": "XiaoweiXu",
+                    "repo": "ImageCAS-A-Large-Scale-Dataset-and-Benchmark-for-Coronary-Artery-Segmentation-based-on-CT",
+                    "stars": 98
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "CardiacUDA",
+                  "description": "2D Ultrasound, 992 Cases, 5 Categories of Heart Structure Segmentation Github 2023-09 -",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 667763916,
+                    "language": "Python",
+                    "last_commit": "2024-06-19T10:17:07Z",
+                    "owner": "xmed-lab",
+                    "repo": "GraphEcho",
+                    "stars": 64
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Heart"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "VerSe",
+                  "description": "3D CT, 374 Cases, 26 Categories of Spine Segmentation Github 2020-05 MICCAI'2019 & 2020",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 321991435,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2021-07-23T08:16:37Z",
+                    "owner": "anjany",
+                    "repo": "verse",
+                    "stars": 285
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "CTPelvic1K",
+                  "description": "3D CT, 1184 Cases, 4 Categories of Lumbar Spine, Sacrum, Left and Right Hip Segmentation Github 2020-12 -",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 320187075,
+                    "language": "Python",
+                    "last_commit": "2022-01-23T08:25:41Z",
+                    "owner": "MIRACLE-Center",
+                    "repo": "CTPelvic1K",
+                    "stars": 178
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "CTSpine1K",
+                  "description": "3D CT, 1005 Cases, 25 Categories of Spine Segmentation Github 2021-05 -",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 369055700,
+                    "language": "Python",
+                    "last_commit": "2025-05-25T14:10:04Z",
+                    "owner": "MIRACLE-Center",
+                    "repo": "CTSpine1K",
+                    "stars": 202
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Bones"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Cholec80",
+                  "description": "Cholecystectomy Surgery Video Dataset 2D Endoscopy, 370,168 Cases, 14 Categories of Surgical Action Types and Instrument Classification Github 2016-02 -",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 299936830,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2025-09-17T14:36:37Z",
+                    "owner": "CAMMA-public",
+                    "repo": "TF-Cholec80",
+                    "stars": 63
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Kvasir-SEG",
+                  "description": "2D Endoscopy, 1160 Cases, 1 Category of Colon Polyp Segmentation Github 2019-11 -",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 284502077,
+                    "language": "Python",
+                    "last_commit": "2020-09-15T20:38:14Z",
+                    "owner": "DebeshJha",
+                    "repo": "2020-MediaEval-Medico-polyp-segmentation",
+                    "stars": 12
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Sinus Surgery Endoscopic Image Datasets",
+                  "description": "2D Rhinoscopy, 9003 Cases, 1 Category of Surgical Instrument Segmentation Github 2020-08 -",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 241347259,
+                    "language": null,
+                    "last_commit": "2023-02-11T17:19:15Z",
+                    "owner": "SURA23",
+                    "repo": "Sinus-Surgery-Endoscopic-Image-Datasets",
+                    "stars": 12
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "EndoSLAM",
+                  "description": "2D Endoscopy, 64577 Cases, 3D Reconstruction Github 2020-10 -",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 295397771,
+                    "language": "Python",
+                    "last_commit": "2022-06-21T14:36:13Z",
+                    "owner": "CapsuleEndoscope",
+                    "repo": "EndoSLAM",
+                    "stars": 308
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "LDPolypVideo",
+                  "description": "2D Endoscopy, 861400 Slices, 1 Category of Polyp Detection Github 2021-09 -",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 383314622,
+                    "language": null,
+                    "last_commit": "2022-12-06T13:57:42Z",
+                    "owner": "dashishi",
+                    "repo": "LDPolypVideo-Benchmark",
+                    "stars": 80
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "CholecT45 Dataset",
+                  "description": "2D Endoscopy, 90489 Cases, 128 Categories of Cholecystectomy Surgery Action Recognition Github 2022-04 -",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 476035922,
+                    "language": "Python",
+                    "last_commit": "2025-09-17T14:36:13Z",
+                    "owner": "CAMMA-public",
+                    "repo": "cholect45",
+                    "stars": 44
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "LIMUC",
+                  "description": "2D Endoscopy, 11276 Cases, 4 Categories of Mayo Score Classification Github 2022-11 -",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 446429055,
+                    "language": "Python",
+                    "last_commit": "2024-01-01T15:23:25Z",
+                    "owner": "GorkemP",
+                    "repo": "labeled-images-for-ulcerative-colitis",
+                    "stars": 36
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "SUN-SEG",
+                  "description": "2D Endoscopy, 158,690 Cases, 7 Categories of Video Polyp Segmentation Github 2022-11 -",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 464840223,
+                    "language": "Python",
+                    "last_commit": "2026-01-12T02:35:24Z",
+                    "owner": "GewelsJI",
+                    "repo": "VPS",
+                    "stars": 221
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Endoscopy"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "OCT 2017",
+                  "description": "2D OCT, 35126 Cases, 4 Categories of Eye Disease Classification Github 2018 -",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 603957692,
+                    "language": "Python",
+                    "last_commit": "2023-02-20T02:56:35Z",
+                    "owner": "aishangcengloua",
+                    "repo": "OCT_Classification",
+                    "stars": 10
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "LAG",
+                  "description": "2D Fundus Photography, 11760 Cases, Glaucoma Early Detection and Research Classification Github 2019-03 -",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 177749226,
+                    "language": null,
+                    "last_commit": "2024-12-13T16:30:09Z",
+                    "owner": "smilell",
+                    "repo": "AG-CNN",
+                    "stars": 79
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "RIM-ONE DL",
+                  "description": "2D Retinal Images, 485 Cases, 2 Categories of Glaucoma Classification and Optic Disc and Optic Cup Segmentation Github 2020-06 -",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 236085694,
+                    "language": "Python",
+                    "last_commit": "2023-07-06T22:21:31Z",
+                    "owner": "miag-ull",
+                    "repo": "rim-one-dl",
+                    "stars": 38
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "BEH (Bangladesh Eye Hospital)",
+                  "description": "2D Fundus photograph, 634 Casesm, 2 Categories of Glaucoma Classification Github 2021-12 -",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 246362489,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2025-02-02T22:05:46Z",
+                    "owner": "mirtanvirislam",
+                    "repo": "Deep-Learning-Based-Glaucoma-Detection-with-Cropped-Optic-Cup-and-Disc-and-Blood-Vessel-Segmentation",
+                    "stars": 10
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "iChallenge-DeepDRiD-Task1",
+                  "description": "2D Fundus photograph, 5 Categories of Diabetic Retinopathy Classification Github 2022 ISBI'2020",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 361703361,
+                    "language": null,
+                    "last_commit": "2023-08-15T09:35:03Z",
+                    "owner": "deepdrdoc",
+                    "repo": "DeepDRiD",
+                    "stars": 70
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "OLIVES",
+                  "description": "2D Fundus Color Photography, 412 Cases, 2 Categories of Diabetic Retinopathy Classification Github 2022 NeurIPS'2022",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 500509574,
+                    "language": "Python",
+                    "last_commit": "2025-02-10T15:18:02Z",
+                    "owner": "olivesgatech",
+                    "repo": "OLIVES_Dataset",
+                    "stars": 25
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Cataract-1K",
+                  "description": "2D Ophthalmic Microscope, 1000 Cases, 13 Categories of Surgical Stages, 2 Categories of Anomaly Detection, 12 Categories of Segmentations Github 2024-04 -",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 690111400,
+                    "language": "Python",
+                    "last_commit": "2026-08-23T16:41:22Z",
+                    "owner": "Negin-Ghamsarian",
+                    "repo": "Cataract-1K",
+                    "stars": 39
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Retina"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Fitzpatrick 17k",
+                  "description": "2D Dermoscopic Images, 16577 Cases, 6 Categories of Fitzpatrick Skin Type, 114 Categories of Skin Condition Github 2021 -",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 358402792,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2026-03-05T15:54:39Z",
+                    "owner": "mattgroh",
+                    "repo": "fitzpatrick17k",
+                    "stars": 148
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Skin"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Cervix93",
+                  "description": "2D Pathological Imaging, 331 Cases, 3 Categories of 93 EDF images and image stacks on smears of different Pap test grades Classification Github 2018 -",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 159272077,
+                    "language": "Matlab",
+                    "last_commit": "2023-10-28T04:48:01Z",
+                    "owner": "parham-ap",
+                    "repo": "cytology_dataset",
+                    "stars": 40
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Complete Blood Count",
+                  "description": "2D Blood Smear, 360 Cases, 3 Categories of Blood Cell Count Github 2019-07 -",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 131436171,
+                    "language": null,
+                    "last_commit": "2021-06-12T22:09:54Z",
+                    "owner": "MahmudulAlam",
+                    "repo": "Complete-Blood-Cell-Count-Dataset",
+                    "stars": 98
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "LC25000",
+                  "description": "2D Pathological Imaging, 25000 Cases, 5 Categories of Pathological Image Classification Github 2020-01 -",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 228096090,
+                    "language": null,
+                    "last_commit": "2020-09-04T11:32:32Z",
+                    "owner": "tampapath",
+                    "repo": "lung_colon_image_set",
+                    "stars": 66
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "MIDOG++",
+                  "description": "2D Pathological Imaging, 22688 Cases, 2 Categories of Tumor Tissue Mitotic Classification Github 2023-07 -",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 621165324,
+                    "language": "Python",
+                    "last_commit": "2026-04-24T13:12:03Z",
+                    "owner": "DeepMicroscopy",
+                    "repo": "MIDOGpp",
+                    "stars": 27
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Microscopic imaging"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Imaging"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MedICaT",
+              "description": "VQA, 217060 Cases QA Pair Github 2020-12",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 300088120,
+                "language": "Python",
+                "last_commit": "2026-02-19T20:27:49Z",
+                "owner": "allenai",
+                "repo": "medicat",
+                "stars": 176
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PMC-VQA",
+              "description": "VQA, 227K Cases Github 2023-05",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 641227214,
+                "language": "Python",
+                "last_commit": "2024-12-06T02:24:55Z",
+                "owner": "xiaoman-zhang",
+                "repo": "PMC-VQA",
+                "stars": 237
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MedPromptX-VQA",
+              "description": "VQA, 968 Cases QA Pair Project Homepage 2024-03",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 776131132,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-07-02T00:39:55Z",
+                "owner": "BioMedIA-MBZUAI",
+                "repo": "MedPromptX",
+                "stars": 71
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HEST-1k",
+              "description": "image-gene, 1180 Cases, Spatial transcriptomics (ST) samples Github 2024-06",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 767130682,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-04-16T07:48:46Z",
+                "owner": "mahmoodlab",
+                "repo": "HEST",
+                "stars": 429
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WSI-VQA",
+              "description": "VQA, 8672 Cases QA Pair Github 2024-07",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 823491599,
+                "language": "Python",
+                "last_commit": "2024-12-18T04:50:23Z",
+                "owner": "cpystan",
+                "repo": "WSI-VQA",
+                "stars": 67
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Medical-CXR-VQA",
+              "description": "2D X-Ray, 780014 Cases, LLMs specializing in chest X-ray Images Github 2024-07",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 836100054,
+                "language": "Python",
+                "last_commit": "2025-01-21T23:13:44Z",
+                "owner": "Holipori",
+                "repo": "Medical-CXR-VQA",
+                "stars": 46
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "STimage-1K4M",
+              "description": "image-gene, Detailed gene expression information is recorded for each spatial spot. Github 2024-08",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 790425673,
+                "language": null,
+                "last_commit": "2026-06-02T04:46:25Z",
+                "owner": "JiawenChenn",
+                "repo": "STimage-1K4M",
+                "stars": 91
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "EAV",
+              "description": "Emotion Recognition, includes 30 channels of EEG, Audio and Video Recording Data Github 2024-09",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 702820942,
+                "language": "Python",
+                "last_commit": "2026-02-03T11:28:55Z",
+                "owner": "nubcico",
+                "repo": "EAV",
+                "stars": 48
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ColonINST-v1",
+              "description": "VQA, 450,724 Visual Dialogues Github 2024-10",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 873317997,
+                "language": "Python",
+                "last_commit": "2026-04-18T23:29:22Z",
+                "owner": "ai4colonoscopy",
+                "repo": "IntelliScope",
+                "stars": 111
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Image text dataset"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "LiveQA",
+              "description": "QA, 634 Cases QA Pair Github 2017",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 123050899,
+                "language": null,
+                "last_commit": "2026-05-13T15:26:41Z",
+                "owner": "abachaa",
+                "repo": "LiveQA_MedicalTask_TREC2017",
+                "stars": 56
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cMedQA",
+              "description": "v2.0 QA, 108K Cases QA Pair Github 2018-12",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 156634102,
+                "language": null,
+                "last_commit": "2019-01-09T01:09:09Z",
+                "owner": "zhangsheng93",
+                "repo": "cMedQA2",
+                "stars": 386
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "webMedQA",
+              "description": "QA, 63,284 Cases QA Pair Github 2019",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 173945614,
+                "language": null,
+                "last_commit": "2020-01-14T03:50:32Z",
+                "owner": "hejunqing",
+                "repo": "webMedQA",
+                "stars": 71
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MedQA",
+              "description": "QA, 61,097 Cases QA Pair Github 2020-09",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 299189142,
+                "language": "Python",
+                "last_commit": "2022-12-01T18:23:49Z",
+                "owner": "jind11",
+                "repo": "MedQA",
+                "stars": 392
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Huatuo-26M",
+              "description": "QA, 26M Cases QA Pair Github 2023-05",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 635374839,
+                "language": null,
+                "last_commit": "2024-03-14T04:54:23Z",
+                "owner": "FreedomIntelligence",
+                "repo": "Huatuo-26M",
+                "stars": 345
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CMB",
+              "description": "QA, 270K Cases QA Pair Github 2023-08",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 667681958,
+                "language": "Python",
+                "last_commit": "2025-03-27T14:42:22Z",
+                "owner": "FreedomIntelligence",
+                "repo": "CMB",
+                "stars": 251
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ShenNong-TCM-Dataset/EB",
+              "description": "QA, 113K Cases QA Pair Github 2023-08",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 666791229,
+                "language": "Python",
+                "last_commit": "2026-04-10T08:53:57Z",
+                "owner": "ywjawmw",
+                "repo": "TCMBench",
+                "stars": 71
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CMExam",
+              "description": "QA, 68K Cases QA Pair Github 2023-10",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 648547451,
+                "language": "Python",
+                "last_commit": "2023-12-02T22:27:57Z",
+                "owner": "williamliujl",
+                "repo": "CMExam",
+                "stars": 97
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PathText",
+              "description": "Caption, 9009 Cases, WSI-Text Pair Github 2023-11",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 746560609,
+                "language": "Python",
+                "last_commit": "2025-06-06T02:59:51Z",
+                "owner": "cpystan",
+                "repo": "Wsi-Caption",
+                "stars": 86
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RJUA-QA",
+              "description": "QA, 213 Cases QA Pair Github 2023",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 735773826,
+                "language": null,
+                "last_commit": "2024-04-22T08:08:03Z",
+                "owner": "alipay",
+                "repo": "RJU_Ant_QA",
+                "stars": 61
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ChineseEEG",
+              "description": "Semantic Decoding and Matching, 25 Phases and 115,233 Characters Github 2024-03",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 706288227,
+                "language": "Python",
+                "last_commit": "2024-03-13T13:30:43Z",
+                "owner": "ncclabsustech",
+                "repo": "Chinese_reading_task_eeg_processing",
+                "stars": 75
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Text dataset"
+        }
+      ],
+      "title": "Public Medical Dataset"
+    },
+    {
       "description": null,
       "items": [
         {
@@ -185,10 +1167,395 @@
         }
       ],
       "title": "Other Medical Awesome Collection Projects"
+    },
+    {
+      "description": "Noted: Many of the datasets collected in this project are benchmarks on the data platform. This section collects comprehensive benchmarks specifically used to evaluate model performance.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OmniMedVQA",
+          "description": "Shanghai AI Lab",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 638869686,
+            "language": "Python",
+            "last_commit": "2024-04-21T11:14:46Z",
+            "owner": "OpenGVLab",
+            "repo": "Multi-Modality-Arena",
+            "stars": 566
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A-Eval",
+          "description": "Shanghai AI Lab",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 688545427,
+            "language": "Python",
+            "last_commit": "2025-02-17T04:43:31Z",
+            "owner": "uni-medical",
+            "repo": "A-Eval",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GMAI-MMBench",
+          "description": "Shanghai AI Lab",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 839934550,
+            "language": null,
+            "last_commit": "2024-12-17T05:59:33Z",
+            "owner": "uni-medical",
+            "repo": "GMAI-MMBench",
+            "stars": 87
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Touchstone",
+          "description": "JHU",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 810617149,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-11-24T03:42:31Z",
+            "owner": "MrGiovanni",
+            "repo": "Touchstone",
+            "stars": 140
+          }
+        }
+      ],
+      "title": "Evaluation Benchmark"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "nnU-Net",
+              "description": "DKFZ",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 181846371,
+                "language": "Python",
+                "last_commit": "2026-07-23T06:09:30Z",
+                "owner": "MIC-DKFZ",
+                "repo": "nnUNet",
+                "stars": 8823
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MedNeXt",
+              "description": "DKFZ",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 653196037,
+                "language": "Python",
+                "last_commit": "2024-11-02T14:50:19Z",
+                "owner": "MIC-DKFZ",
+                "repo": "MedNeXt",
+                "stars": 525
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "STU-Net",
+              "description": "Shanghai AI Lab",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 626941525,
+                "language": "Python",
+                "last_commit": "2024-09-03T03:13:43Z",
+                "owner": "uni-medical",
+                "repo": "STU-Net",
+                "stars": 373
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "U-Net & CLIP",
+              "description": "CityU",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 578868162,
+                "language": "Python",
+                "last_commit": "2025-10-24T08:42:13Z",
+                "owner": "ljwztc",
+                "repo": "CLIP-Driven-Universal-Model",
+                "stars": 675
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "UNETR",
+              "description": "NVIDIA",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 288774122,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-08-13T20:13:38Z",
+                "owner": "Project-MONAI",
+                "repo": "tutorials",
+                "stars": 2529
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Swin UNETR",
+              "description": "NVIDIA",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 288774122,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-08-13T20:13:38Z",
+                "owner": "Project-MONAI",
+                "repo": "tutorials",
+                "stars": 2529
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Swin UNETR & CLIP",
+              "description": "CityU",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 578868162,
+                "language": "Python",
+                "last_commit": "2025-10-24T08:42:13Z",
+                "owner": "ljwztc",
+                "repo": "CLIP-Driven-Universal-Model",
+                "stars": 675
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MedFormer",
+              "description": "Rutgers",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 445364678,
+                "language": "Python",
+                "last_commit": "2024-04-15T03:04:34Z",
+                "owner": "yhygao",
+                "repo": "CBIM-Medical-Image-Segmentation",
+                "stars": 342
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "UniSeg",
+              "description": "NPU",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 624726071,
+                "language": "Python",
+                "last_commit": "2023-11-05T05:10:38Z",
+                "owner": "yeerwen",
+                "repo": "UniSeg",
+                "stars": 192
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Diff-UNet",
+              "description": "HKUST",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 615143942,
+                "language": "Python",
+                "last_commit": "2024-03-22T00:27:37Z",
+                "owner": "ge-xing",
+                "repo": "Diff-UNet",
+                "stars": 198
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LHU-Net",
+              "description": "UR",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 777462652,
+                "language": "Python",
+                "last_commit": "2026-01-30T16:47:43Z",
+                "owner": "xmindflow",
+                "repo": "LHUNet",
+                "stars": 67
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NexToU",
+              "description": "HIT",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 645254026,
+                "language": "Python",
+                "last_commit": "2025-11-19T03:15:20Z",
+                "owner": "PengchengShi1220",
+                "repo": "NexToU",
+                "stars": 84
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SegVol",
+              "description": "BAAI",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 716955675,
+                "language": "Python",
+                "last_commit": "2026-01-11T05:15:18Z",
+                "owner": "BAAI-DCAI",
+                "repo": "SegVol",
+                "stars": 387
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "UNesT",
+              "description": "NVIDIA",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 288774122,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-08-13T20:13:38Z",
+                "owner": "Project-MONAI",
+                "repo": "tutorials",
+                "stars": 2529
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SAM-Adapter",
+              "description": "Duke",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 784347564,
+                "language": "Python",
+                "last_commit": "2024-10-18T17:35:47Z",
+                "owner": "mazurowski-lab",
+                "repo": "finetune-SAM",
+                "stars": 281
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Segmentation"
+        }
+      ],
+      "title": "SOTA Methods"
+    },
+    {
+      "description": "Many of the papers that use the datasets collected in this project have their code written based on the following Github code project.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "nnU-Net",
+          "description": "DKFZ",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 181846371,
+            "language": "Python",
+            "last_commit": "2026-07-23T06:09:30Z",
+            "owner": "MIC-DKFZ",
+            "repo": "nnUNet",
+            "stars": 8823
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MONAI",
+          "description": "NVIDIA",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 214485001,
+            "language": "Python",
+            "last_commit": "2026-08-23T23:59:16Z",
+            "owner": "Project-MONAI",
+            "repo": "MONAI",
+            "stars": 8629
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SAM",
+          "description": "META",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 618058471,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-09-18T17:46:55Z",
+            "owner": "facebookresearch",
+            "repo": "segment-anything",
+            "stars": 54754
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MMSegmentation",
+          "description": "Shanghai AI Lab -",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 272133018,
+            "language": "Python",
+            "last_commit": "2024-08-13T08:53:34Z",
+            "owner": "open-mmlab",
+            "repo": "mmsegmentation",
+            "stars": 9928
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MMPretrain",
+          "description": "Shanghai AI Lab -",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 278415292,
+            "language": "Python",
+            "last_commit": "2024-11-01T06:27:36Z",
+            "owner": "open-mmlab",
+            "repo": "mmpretrain",
+            "stars": 3848
+          }
+        }
+      ],
+      "title": "Related Foundation Toolbox Projects"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T12:17:20.555Z",
+    "last_updated": "2026-08-24T14:06:27.866Z",
     "original_repository": "openmedlab/Awesome-Medical-Dataset",
     "original_repository_id": 745555192,
     "original_repository_sha": "507ef7645e6abd254995aa72deb9a04393a11a98",
