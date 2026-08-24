@@ -45,7 +45,7 @@
             "last_commit": "2024-01-17T06:47:55Z",
             "owner": "GanjinZero",
             "repo": "awesome_Chinese_medical_NLP",
-            "stars": 2620
+            "stars": 2622
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2023-12-12T02:58:36Z",
             "owner": "JunMa11",
             "repo": "SOTA-MedSeg",
-            "stars": 1676
+            "stars": 1675
           }
         },
         {
@@ -188,7 +188,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T12:02:04.031Z",
+    "last_updated": "2026-08-24T12:17:20.555Z",
     "original_repository": "openmedlab/Awesome-Medical-Dataset",
     "original_repository_id": 745555192,
     "original_repository_sha": "507ef7645e6abd254995aa72deb9a04393a11a98",
