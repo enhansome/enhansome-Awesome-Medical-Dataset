@@ -113,7 +113,7 @@
                     "archived": false,
                     "id": 337971006,
                     "language": "Python",
-                    "last_commit": "2025-03-18T09:21:27Z",
+                    "last_commit": "2026-08-24T18:29:13Z",
                     "owner": "haifangong",
                     "repo": "TRFE-Net-for-thyroid-nodule-segmentation",
                     "stars": 137
@@ -128,7 +128,7 @@
                     "archived": false,
                     "id": 337971006,
                     "language": "Python",
-                    "last_commit": "2025-03-18T09:21:27Z",
+                    "last_commit": "2026-08-24T18:29:13Z",
                     "owner": "haifangong",
                     "repo": "TRFE-Net-for-thyroid-nodule-segmentation",
                     "stars": 137
@@ -232,7 +232,7 @@
                     "archived": false,
                     "id": 597551993,
                     "language": "Python",
-                    "last_commit": "2025-11-24T03:38:13Z",
+                    "last_commit": "2026-08-25T01:37:24Z",
                     "owner": "MrGiovanni",
                     "repo": "AbdomenAtlas",
                     "stars": 308
@@ -294,7 +294,7 @@
                     "last_commit": "2021-07-23T08:16:37Z",
                     "owner": "anjany",
                     "repo": "verse",
-                    "stars": 285
+                    "stars": 286
                   }
                 },
                 {
@@ -451,7 +451,7 @@
                     "last_commit": "2026-01-12T02:35:24Z",
                     "owner": "GewelsJI",
                     "repo": "VPS",
-                    "stars": 221
+                    "stars": 222
                   }
                 }
               ],
@@ -724,7 +724,7 @@
                 "last_commit": "2026-04-16T07:48:46Z",
                 "owner": "mahmoodlab",
                 "repo": "HEST",
-                "stars": 429
+                "stars": 430
               }
             },
             {
@@ -1012,7 +1012,7 @@
             "last_commit": "2026-05-05T10:41:03Z",
             "owner": "kakoni",
             "repo": "awesome-healthcare",
-            "stars": 3950
+            "stars": 3951
           }
         },
         {
@@ -1087,7 +1087,7 @@
             "last_commit": "2026-06-21T11:56:54Z",
             "owner": "fahadshamshad",
             "repo": "awesome-transformers-in-medical-imaging",
-            "stars": 1295
+            "stars": 1296
           }
         },
         {
@@ -1251,7 +1251,7 @@
                 "last_commit": "2026-07-23T06:09:30Z",
                 "owner": "MIC-DKFZ",
                 "repo": "nnUNet",
-                "stars": 8823
+                "stars": 8825
               }
             },
             {
@@ -1296,7 +1296,7 @@
                 "last_commit": "2025-10-24T08:42:13Z",
                 "owner": "ljwztc",
                 "repo": "CLIP-Driven-Universal-Model",
-                "stars": 675
+                "stars": 676
               }
             },
             {
@@ -1311,7 +1311,7 @@
                 "last_commit": "2026-08-13T20:13:38Z",
                 "owner": "Project-MONAI",
                 "repo": "tutorials",
-                "stars": 2529
+                "stars": 2530
               }
             },
             {
@@ -1326,7 +1326,7 @@
                 "last_commit": "2026-08-13T20:13:38Z",
                 "owner": "Project-MONAI",
                 "repo": "tutorials",
-                "stars": 2529
+                "stars": 2530
               }
             },
             {
@@ -1341,7 +1341,7 @@
                 "last_commit": "2025-10-24T08:42:13Z",
                 "owner": "ljwztc",
                 "repo": "CLIP-Driven-Universal-Model",
-                "stars": 675
+                "stars": 676
               }
             },
             {
@@ -1446,7 +1446,7 @@
                 "last_commit": "2026-08-13T20:13:38Z",
                 "owner": "Project-MONAI",
                 "repo": "tutorials",
-                "stars": 2529
+                "stars": 2530
               }
             },
             {
@@ -1487,7 +1487,7 @@
             "last_commit": "2026-07-23T06:09:30Z",
             "owner": "MIC-DKFZ",
             "repo": "nnUNet",
-            "stars": 8823
+            "stars": 8825
           }
         },
         {
@@ -1502,7 +1502,7 @@
             "last_commit": "2026-08-23T23:59:16Z",
             "owner": "Project-MONAI",
             "repo": "MONAI",
-            "stars": 8629
+            "stars": 8630
           }
         },
         {
@@ -1555,7 +1555,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:06:27.866Z",
+    "last_updated": "2026-08-25T05:57:06.268Z",
     "original_repository": "openmedlab/Awesome-Medical-Dataset",
     "original_repository_id": 745555192,
     "original_repository_sha": "507ef7645e6abd254995aa72deb9a04393a11a98",
