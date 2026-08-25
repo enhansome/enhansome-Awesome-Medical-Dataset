@@ -1012,7 +1012,7 @@
             "last_commit": "2026-05-05T10:41:03Z",
             "owner": "kakoni",
             "repo": "awesome-healthcare",
-            "stars": 3951
+            "stars": 3952
           }
         },
         {
@@ -1027,7 +1027,7 @@
             "last_commit": "2024-01-17T06:47:55Z",
             "owner": "GanjinZero",
             "repo": "awesome_Chinese_medical_NLP",
-            "stars": 2622
+            "stars": 2623
           }
         },
         {
@@ -1251,7 +1251,7 @@
                 "last_commit": "2026-07-23T06:09:30Z",
                 "owner": "MIC-DKFZ",
                 "repo": "nnUNet",
-                "stars": 8825
+                "stars": 8826
               }
             },
             {
@@ -1266,7 +1266,7 @@
                 "last_commit": "2024-11-02T14:50:19Z",
                 "owner": "MIC-DKFZ",
                 "repo": "MedNeXt",
-                "stars": 525
+                "stars": 526
               }
             },
             {
@@ -1487,7 +1487,7 @@
             "last_commit": "2026-07-23T06:09:30Z",
             "owner": "MIC-DKFZ",
             "repo": "nnUNet",
-            "stars": 8825
+            "stars": 8826
           }
         },
         {
@@ -1532,7 +1532,7 @@
             "last_commit": "2024-08-13T08:53:34Z",
             "owner": "open-mmlab",
             "repo": "mmsegmentation",
-            "stars": 9928
+            "stars": 9926
           }
         },
         {
@@ -1547,7 +1547,7 @@
             "last_commit": "2024-11-01T06:27:36Z",
             "owner": "open-mmlab",
             "repo": "mmpretrain",
-            "stars": 3848
+            "stars": 3849
           }
         }
       ],
@@ -1555,7 +1555,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:57:06.268Z",
+    "last_updated": "2026-08-25T12:17:30.467Z",
     "original_repository": "openmedlab/Awesome-Medical-Dataset",
     "original_repository_id": 745555192,
     "original_repository_sha": "507ef7645e6abd254995aa72deb9a04393a11a98",
