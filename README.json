@@ -836,7 +836,7 @@
                 "last_commit": "2019-01-09T01:09:09Z",
                 "owner": "zhangsheng93",
                 "repo": "cMedQA2",
-                "stars": 386
+                "stars": 387
               }
             },
             {
@@ -851,7 +851,7 @@
                 "last_commit": "2020-01-14T03:50:32Z",
                 "owner": "hejunqing",
                 "repo": "webMedQA",
-                "stars": 71
+                "stars": 72
               }
             },
             {
@@ -881,7 +881,7 @@
                 "last_commit": "2024-03-14T04:54:23Z",
                 "owner": "FreedomIntelligence",
                 "repo": "Huatuo-26M",
-                "stars": 345
+                "stars": 346
               }
             },
             {
@@ -1012,7 +1012,7 @@
             "last_commit": "2026-05-05T10:41:03Z",
             "owner": "kakoni",
             "repo": "awesome-healthcare",
-            "stars": 3950
+            "stars": 3951
           }
         },
         {
@@ -1072,7 +1072,7 @@
             "last_commit": "2023-12-12T02:58:36Z",
             "owner": "JunMa11",
             "repo": "SOTA-MedSeg",
-            "stars": 1675
+            "stars": 1676
           }
         },
         {
@@ -1251,7 +1251,7 @@
                 "last_commit": "2026-07-23T06:09:30Z",
                 "owner": "MIC-DKFZ",
                 "repo": "nnUNet",
-                "stars": 8828
+                "stars": 8832
               }
             },
             {
@@ -1311,7 +1311,7 @@
                 "last_commit": "2026-08-13T20:13:38Z",
                 "owner": "Project-MONAI",
                 "repo": "tutorials",
-                "stars": 2532
+                "stars": 2533
               }
             },
             {
@@ -1326,7 +1326,7 @@
                 "last_commit": "2026-08-13T20:13:38Z",
                 "owner": "Project-MONAI",
                 "repo": "tutorials",
-                "stars": 2532
+                "stars": 2533
               }
             },
             {
@@ -1356,7 +1356,7 @@
                 "last_commit": "2024-04-15T03:04:34Z",
                 "owner": "yhygao",
                 "repo": "CBIM-Medical-Image-Segmentation",
-                "stars": 342
+                "stars": 344
               }
             },
             {
@@ -1446,7 +1446,7 @@
                 "last_commit": "2026-08-13T20:13:38Z",
                 "owner": "Project-MONAI",
                 "repo": "tutorials",
-                "stars": 2532
+                "stars": 2533
               }
             },
             {
@@ -1487,7 +1487,7 @@
             "last_commit": "2026-07-23T06:09:30Z",
             "owner": "MIC-DKFZ",
             "repo": "nnUNet",
-            "stars": 8828
+            "stars": 8832
           }
         },
         {
@@ -1499,10 +1499,10 @@
             "archived": false,
             "id": 214485001,
             "language": "Python",
-            "last_commit": "2026-08-25T16:09:12Z",
+            "last_commit": "2026-08-26T13:54:22Z",
             "owner": "Project-MONAI",
             "repo": "MONAI",
-            "stars": 8633
+            "stars": 8636
           }
         },
         {
@@ -1517,7 +1517,7 @@
             "last_commit": "2024-09-18T17:46:55Z",
             "owner": "facebookresearch",
             "repo": "segment-anything",
-            "stars": 54758
+            "stars": 54766
           }
         },
         {
@@ -1532,7 +1532,7 @@
             "last_commit": "2024-08-13T08:53:34Z",
             "owner": "open-mmlab",
             "repo": "mmsegmentation",
-            "stars": 9930
+            "stars": 9931
           }
         },
         {
@@ -1555,9 +1555,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T12:19:31.391Z",
-    "original_repository": "openmedlab/Awesome-Medical-Dataset",
-    "original_repository_id": 745555192,
+    "last_updated": "2026-08-27T11:23:40.785Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 745555192,
+      "language": null,
+      "last_commit": "2025-01-23T03:32:22Z",
+      "owner": "openmedlab",
+      "repo": "Awesome-Medical-Dataset",
+      "stars": 2096
+    },
     "original_repository_sha": "507ef7645e6abd254995aa72deb9a04393a11a98",
     "enhanced_repository": "enhansome/enhansome-Awesome-Medical-Dataset",
     "enhanced_repository_description": null,
