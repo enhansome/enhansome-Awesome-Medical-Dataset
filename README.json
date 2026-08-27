@@ -34,7 +34,7 @@
                     "last_commit": "2026-08-13T09:31:46Z",
                     "owner": "wasserth",
                     "repo": "TotalSegmentator",
-                    "stars": 2952
+                    "stars": 2953
                   }
                 },
                 {
@@ -49,7 +49,7 @@
                     "last_commit": "2026-08-13T09:31:46Z",
                     "owner": "wasserth",
                     "repo": "TotalSegmentator",
-                    "stars": 2952
+                    "stars": 2953
                   }
                 },
                 {
@@ -79,7 +79,7 @@
                     "last_commit": "2026-08-13T09:31:46Z",
                     "owner": "wasserth",
                     "repo": "TotalSegmentator",
-                    "stars": 2952
+                    "stars": 2953
                   }
                 }
               ],
@@ -1012,7 +1012,7 @@
             "last_commit": "2026-05-05T10:41:03Z",
             "owner": "kakoni",
             "repo": "awesome-healthcare",
-            "stars": 3951
+            "stars": 3952
           }
         },
         {
@@ -1251,7 +1251,7 @@
                 "last_commit": "2026-07-23T06:09:30Z",
                 "owner": "MIC-DKFZ",
                 "repo": "nnUNet",
-                "stars": 8832
+                "stars": 8834
               }
             },
             {
@@ -1311,7 +1311,7 @@
                 "last_commit": "2026-08-13T20:13:38Z",
                 "owner": "Project-MONAI",
                 "repo": "tutorials",
-                "stars": 2533
+                "stars": 2534
               }
             },
             {
@@ -1326,7 +1326,7 @@
                 "last_commit": "2026-08-13T20:13:38Z",
                 "owner": "Project-MONAI",
                 "repo": "tutorials",
-                "stars": 2533
+                "stars": 2534
               }
             },
             {
@@ -1401,7 +1401,7 @@
                 "last_commit": "2026-01-30T16:47:43Z",
                 "owner": "xmindflow",
                 "repo": "LHUNet",
-                "stars": 67
+                "stars": 68
               }
             },
             {
@@ -1446,7 +1446,7 @@
                 "last_commit": "2026-08-13T20:13:38Z",
                 "owner": "Project-MONAI",
                 "repo": "tutorials",
-                "stars": 2533
+                "stars": 2534
               }
             },
             {
@@ -1487,7 +1487,7 @@
             "last_commit": "2026-07-23T06:09:30Z",
             "owner": "MIC-DKFZ",
             "repo": "nnUNet",
-            "stars": 8832
+            "stars": 8834
           }
         },
         {
@@ -1502,7 +1502,7 @@
             "last_commit": "2026-08-26T13:54:22Z",
             "owner": "Project-MONAI",
             "repo": "MONAI",
-            "stars": 8636
+            "stars": 8637
           }
         },
         {
@@ -1517,7 +1517,7 @@
             "last_commit": "2024-09-18T17:46:55Z",
             "owner": "facebookresearch",
             "repo": "segment-anything",
-            "stars": 54766
+            "stars": 54768
           }
         },
         {
@@ -1532,7 +1532,7 @@
             "last_commit": "2024-08-13T08:53:34Z",
             "owner": "open-mmlab",
             "repo": "mmsegmentation",
-            "stars": 9931
+            "stars": 9932
           }
         },
         {
@@ -1555,7 +1555,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:23:40.785Z",
+    "last_updated": "2026-08-27T21:19:26.715Z",
     "original_repository_info": {
       "archived": false,
       "id": 745555192,
@@ -1563,7 +1563,7 @@
       "last_commit": "2025-01-23T03:32:22Z",
       "owner": "openmedlab",
       "repo": "Awesome-Medical-Dataset",
-      "stars": 2096
+      "stars": 2097
     },
     "original_repository_sha": "507ef7645e6abd254995aa72deb9a04393a11a98",
     "enhanced_repository": "enhansome/enhansome-Awesome-Medical-Dataset",
