@@ -20,7 +20,8 @@
                     "owner": "bbrister",
                     "repo": "ctOrganSegmentation",
                     "stars": 24
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:32:03.559Z"
                 },
                 {
                   "node_type": "item",
@@ -34,8 +35,9 @@
                     "last_commit": "2026-08-13T09:31:46Z",
                     "owner": "wasserth",
                     "repo": "TotalSegmentator",
-                    "stars": 2953
-                  }
+                    "stars": 2956
+                  },
+                  "first_seen": "2026-08-28T21:32:03.559Z"
                 },
                 {
                   "node_type": "item",
@@ -49,8 +51,9 @@
                     "last_commit": "2026-08-13T09:31:46Z",
                     "owner": "wasserth",
                     "repo": "TotalSegmentator",
-                    "stars": 2953
-                  }
+                    "stars": 2956
+                  },
+                  "first_seen": "2026-08-28T21:32:03.559Z"
                 },
                 {
                   "node_type": "item",
@@ -65,7 +68,8 @@
                     "owner": "wllfore",
                     "repo": "MedFMC_fewshot_baseline",
                     "stars": 18
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:32:03.559Z"
                 },
                 {
                   "node_type": "item",
@@ -79,8 +83,9 @@
                     "last_commit": "2026-08-13T09:31:46Z",
                     "owner": "wasserth",
                     "repo": "TotalSegmentator",
-                    "stars": 2953
-                  }
+                    "stars": 2956
+                  },
+                  "first_seen": "2026-08-28T21:32:03.559Z"
                 }
               ],
               "description": null,
@@ -102,7 +107,8 @@
                     "owner": "DCBIA-OrthoLab",
                     "repo": "3DTeethSeg22_challenge",
                     "stars": 20
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:32:03.559Z"
                 },
                 {
                   "node_type": "item",
@@ -117,7 +123,8 @@
                     "owner": "haifangong",
                     "repo": "TRFE-Net-for-thyroid-nodule-segmentation",
                     "stars": 137
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:32:03.559Z"
                 },
                 {
                   "node_type": "item",
@@ -132,7 +139,8 @@
                     "owner": "haifangong",
                     "repo": "TRFE-Net-for-thyroid-nodule-segmentation",
                     "stars": 137
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:32:03.559Z"
                 }
               ],
               "description": null,
@@ -154,7 +162,8 @@
                     "owner": "ari-dasci",
                     "repo": "OD-covidgr",
                     "stars": 17
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:32:03.559Z"
                 }
               ],
               "description": null,
@@ -176,7 +185,8 @@
                     "owner": "XiaoyuZHK",
                     "repo": "CRAG-Dataset_Aug_ToCOCO",
                     "stars": 10
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:32:03.559Z"
                 },
                 {
                   "node_type": "item",
@@ -191,7 +201,8 @@
                     "owner": "JunMa11",
                     "repo": "AbdomenCT-1K",
                     "stars": 267
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:32:03.559Z"
                 },
                 {
                   "node_type": "item",
@@ -206,7 +217,8 @@
                     "owner": "HiLab-git",
                     "repo": "WORD",
                     "stars": 183
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:32:03.559Z"
                 },
                 {
                   "node_type": "item",
@@ -221,7 +233,8 @@
                     "owner": "LMMMEng",
                     "repo": "LLD-MMRI2023",
                     "stars": 108
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:32:03.559Z"
                 },
                 {
                   "node_type": "item",
@@ -235,8 +248,9 @@
                     "last_commit": "2026-08-25T17:14:56Z",
                     "owner": "MrGiovanni",
                     "repo": "AbdomenAtlas",
-                    "stars": 308
-                  }
+                    "stars": 307
+                  },
+                  "first_seen": "2026-08-28T21:32:03.559Z"
                 }
               ],
               "description": null,
@@ -258,7 +272,8 @@
                     "owner": "XiaoweiXu",
                     "repo": "ImageCAS-A-Large-Scale-Dataset-and-Benchmark-for-Coronary-Artery-Segmentation-based-on-CT",
                     "stars": 98
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:32:03.559Z"
                 },
                 {
                   "node_type": "item",
@@ -273,7 +288,8 @@
                     "owner": "xmed-lab",
                     "repo": "GraphEcho",
                     "stars": 64
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:32:03.559Z"
                 }
               ],
               "description": null,
@@ -295,7 +311,8 @@
                     "owner": "anjany",
                     "repo": "verse",
                     "stars": 286
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:32:03.559Z"
                 },
                 {
                   "node_type": "item",
@@ -310,7 +327,8 @@
                     "owner": "MIRACLE-Center",
                     "repo": "CTPelvic1K",
                     "stars": 179
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:32:03.559Z"
                 },
                 {
                   "node_type": "item",
@@ -325,7 +343,8 @@
                     "owner": "MIRACLE-Center",
                     "repo": "CTSpine1K",
                     "stars": 202
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:32:03.559Z"
                 }
               ],
               "description": null,
@@ -347,7 +366,8 @@
                     "owner": "CAMMA-public",
                     "repo": "TF-Cholec80",
                     "stars": 64
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:32:03.559Z"
                 },
                 {
                   "node_type": "item",
@@ -362,7 +382,8 @@
                     "owner": "DebeshJha",
                     "repo": "2020-MediaEval-Medico-polyp-segmentation",
                     "stars": 12
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:32:03.559Z"
                 },
                 {
                   "node_type": "item",
@@ -377,7 +398,8 @@
                     "owner": "SURA23",
                     "repo": "Sinus-Surgery-Endoscopic-Image-Datasets",
                     "stars": 12
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:32:03.559Z"
                 },
                 {
                   "node_type": "item",
@@ -392,7 +414,8 @@
                     "owner": "CapsuleEndoscope",
                     "repo": "EndoSLAM",
                     "stars": 308
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:32:03.559Z"
                 },
                 {
                   "node_type": "item",
@@ -407,7 +430,8 @@
                     "owner": "dashishi",
                     "repo": "LDPolypVideo-Benchmark",
                     "stars": 80
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:32:03.559Z"
                 },
                 {
                   "node_type": "item",
@@ -422,7 +446,8 @@
                     "owner": "CAMMA-public",
                     "repo": "cholect45",
                     "stars": 44
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:32:03.559Z"
                 },
                 {
                   "node_type": "item",
@@ -437,7 +462,8 @@
                     "owner": "GorkemP",
                     "repo": "labeled-images-for-ulcerative-colitis",
                     "stars": 36
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:32:03.559Z"
                 },
                 {
                   "node_type": "item",
@@ -452,7 +478,8 @@
                     "owner": "GewelsJI",
                     "repo": "VPS",
                     "stars": 222
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:32:03.559Z"
                 }
               ],
               "description": null,
@@ -474,7 +501,8 @@
                     "owner": "aishangcengloua",
                     "repo": "OCT_Classification",
                     "stars": 10
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:32:03.559Z"
                 },
                 {
                   "node_type": "item",
@@ -489,7 +517,8 @@
                     "owner": "smilell",
                     "repo": "AG-CNN",
                     "stars": 79
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:32:03.559Z"
                 },
                 {
                   "node_type": "item",
@@ -504,7 +533,8 @@
                     "owner": "miag-ull",
                     "repo": "rim-one-dl",
                     "stars": 38
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:32:03.559Z"
                 },
                 {
                   "node_type": "item",
@@ -519,7 +549,8 @@
                     "owner": "mirtanvirislam",
                     "repo": "Deep-Learning-Based-Glaucoma-Detection-with-Cropped-Optic-Cup-and-Disc-and-Blood-Vessel-Segmentation",
                     "stars": 10
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:32:03.559Z"
                 },
                 {
                   "node_type": "item",
@@ -534,7 +565,8 @@
                     "owner": "deepdrdoc",
                     "repo": "DeepDRiD",
                     "stars": 71
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:32:03.559Z"
                 },
                 {
                   "node_type": "item",
@@ -549,7 +581,8 @@
                     "owner": "olivesgatech",
                     "repo": "OLIVES_Dataset",
                     "stars": 25
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:32:03.559Z"
                 },
                 {
                   "node_type": "item",
@@ -560,11 +593,12 @@
                     "archived": false,
                     "id": 690111400,
                     "language": "Python",
-                    "last_commit": "2026-08-23T16:41:22Z",
+                    "last_commit": "2026-08-28T09:53:02Z",
                     "owner": "Negin-Ghamsarian",
                     "repo": "Cataract-1K",
                     "stars": 39
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:32:03.559Z"
                 }
               ],
               "description": null,
@@ -586,7 +620,8 @@
                     "owner": "mattgroh",
                     "repo": "fitzpatrick17k",
                     "stars": 148
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:32:03.559Z"
                 }
               ],
               "description": null,
@@ -608,7 +643,8 @@
                     "owner": "parham-ap",
                     "repo": "cytology_dataset",
                     "stars": 40
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:32:03.559Z"
                 },
                 {
                   "node_type": "item",
@@ -623,7 +659,8 @@
                     "owner": "MahmudulAlam",
                     "repo": "Complete-Blood-Cell-Count-Dataset",
                     "stars": 98
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:32:03.559Z"
                 },
                 {
                   "node_type": "item",
@@ -638,7 +675,8 @@
                     "owner": "tampapath",
                     "repo": "lung_colon_image_set",
                     "stars": 66
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:32:03.559Z"
                 },
                 {
                   "node_type": "item",
@@ -653,7 +691,8 @@
                     "owner": "DeepMicroscopy",
                     "repo": "MIDOGpp",
                     "stars": 27
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:32:03.559Z"
                 }
               ],
               "description": null,
@@ -680,7 +719,8 @@
                 "owner": "allenai",
                 "repo": "medicat",
                 "stars": 176
-              }
+              },
+              "first_seen": "2026-08-28T21:32:03.559Z"
             },
             {
               "node_type": "item",
@@ -694,8 +734,9 @@
                 "last_commit": "2024-12-06T02:24:55Z",
                 "owner": "xiaoman-zhang",
                 "repo": "PMC-VQA",
-                "stars": 237
-              }
+                "stars": 238
+              },
+              "first_seen": "2026-08-28T21:32:03.559Z"
             },
             {
               "node_type": "item",
@@ -710,7 +751,8 @@
                 "owner": "BioMedIA-MBZUAI",
                 "repo": "MedPromptX",
                 "stars": 71
-              }
+              },
+              "first_seen": "2026-08-28T21:32:03.559Z"
             },
             {
               "node_type": "item",
@@ -724,8 +766,9 @@
                 "last_commit": "2026-04-16T07:48:46Z",
                 "owner": "mahmoodlab",
                 "repo": "HEST",
-                "stars": 432
-              }
+                "stars": 433
+              },
+              "first_seen": "2026-08-28T21:32:03.559Z"
             },
             {
               "node_type": "item",
@@ -740,7 +783,8 @@
                 "owner": "cpystan",
                 "repo": "WSI-VQA",
                 "stars": 67
-              }
+              },
+              "first_seen": "2026-08-28T21:32:03.559Z"
             },
             {
               "node_type": "item",
@@ -755,7 +799,8 @@
                 "owner": "Holipori",
                 "repo": "Medical-CXR-VQA",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-28T21:32:03.559Z"
             },
             {
               "node_type": "item",
@@ -770,7 +815,8 @@
                 "owner": "JiawenChenn",
                 "repo": "STimage-1K4M",
                 "stars": 91
-              }
+              },
+              "first_seen": "2026-08-28T21:32:03.559Z"
             },
             {
               "node_type": "item",
@@ -785,7 +831,8 @@
                 "owner": "nubcico",
                 "repo": "EAV",
                 "stars": 48
-              }
+              },
+              "first_seen": "2026-08-28T21:32:03.559Z"
             },
             {
               "node_type": "item",
@@ -800,7 +847,8 @@
                 "owner": "ai4colonoscopy",
                 "repo": "IntelliScope",
                 "stars": 111
-              }
+              },
+              "first_seen": "2026-08-28T21:32:03.559Z"
             }
           ],
           "description": null,
@@ -822,7 +870,8 @@
                 "owner": "abachaa",
                 "repo": "LiveQA_MedicalTask_TREC2017",
                 "stars": 56
-              }
+              },
+              "first_seen": "2026-08-28T21:32:03.559Z"
             },
             {
               "node_type": "item",
@@ -837,7 +886,8 @@
                 "owner": "zhangsheng93",
                 "repo": "cMedQA2",
                 "stars": 387
-              }
+              },
+              "first_seen": "2026-08-28T21:32:03.559Z"
             },
             {
               "node_type": "item",
@@ -852,7 +902,8 @@
                 "owner": "hejunqing",
                 "repo": "webMedQA",
                 "stars": 72
-              }
+              },
+              "first_seen": "2026-08-28T21:32:03.559Z"
             },
             {
               "node_type": "item",
@@ -867,7 +918,8 @@
                 "owner": "jind11",
                 "repo": "MedQA",
                 "stars": 392
-              }
+              },
+              "first_seen": "2026-08-28T21:32:03.559Z"
             },
             {
               "node_type": "item",
@@ -882,7 +934,8 @@
                 "owner": "FreedomIntelligence",
                 "repo": "Huatuo-26M",
                 "stars": 346
-              }
+              },
+              "first_seen": "2026-08-28T21:32:03.559Z"
             },
             {
               "node_type": "item",
@@ -897,7 +950,8 @@
                 "owner": "FreedomIntelligence",
                 "repo": "CMB",
                 "stars": 251
-              }
+              },
+              "first_seen": "2026-08-28T21:32:03.559Z"
             },
             {
               "node_type": "item",
@@ -912,7 +966,8 @@
                 "owner": "ywjawmw",
                 "repo": "TCMBench",
                 "stars": 71
-              }
+              },
+              "first_seen": "2026-08-28T21:32:03.559Z"
             },
             {
               "node_type": "item",
@@ -927,7 +982,8 @@
                 "owner": "williamliujl",
                 "repo": "CMExam",
                 "stars": 97
-              }
+              },
+              "first_seen": "2026-08-28T21:32:03.559Z"
             },
             {
               "node_type": "item",
@@ -942,7 +998,8 @@
                 "owner": "cpystan",
                 "repo": "Wsi-Caption",
                 "stars": 86
-              }
+              },
+              "first_seen": "2026-08-28T21:32:03.559Z"
             },
             {
               "node_type": "item",
@@ -957,7 +1014,8 @@
                 "owner": "alipay",
                 "repo": "RJU_Ant_QA",
                 "stars": 62
-              }
+              },
+              "first_seen": "2026-08-28T21:32:03.559Z"
             },
             {
               "node_type": "item",
@@ -972,7 +1030,8 @@
                 "owner": "ncclabsustech",
                 "repo": "Chinese_reading_task_eeg_processing",
                 "stars": 75
-              }
+              },
+              "first_seen": "2026-08-28T21:32:03.559Z"
             }
           ],
           "description": null,
@@ -998,7 +1057,8 @@
             "owner": "JunMa11",
             "repo": "SegLossOdyssey",
             "stars": 4007
-          }
+          },
+          "first_seen": "2026-08-28T21:32:03.559Z"
         },
         {
           "node_type": "item",
@@ -1012,8 +1072,9 @@
             "last_commit": "2026-05-05T10:41:03Z",
             "owner": "kakoni",
             "repo": "awesome-healthcare",
-            "stars": 3952
-          }
+            "stars": 3953
+          },
+          "first_seen": "2026-08-28T21:32:03.559Z"
         },
         {
           "node_type": "item",
@@ -1027,8 +1088,9 @@
             "last_commit": "2024-01-17T06:47:55Z",
             "owner": "GanjinZero",
             "repo": "awesome_Chinese_medical_NLP",
-            "stars": 2623
-          }
+            "stars": 2625
+          },
+          "first_seen": "2026-08-28T21:32:03.559Z"
         },
         {
           "node_type": "item",
@@ -1043,7 +1105,8 @@
             "owner": "xinario",
             "repo": "awesome-gan-for-medical-imaging",
             "stars": 2362
-          }
+          },
+          "first_seen": "2026-08-28T21:32:03.559Z"
         },
         {
           "node_type": "item",
@@ -1057,8 +1120,9 @@
             "last_commit": "2025-11-17T17:13:18Z",
             "owner": "amirhossein-kz",
             "repo": "Awesome-Diffusion-Models-in-Medical-Imaging",
-            "stars": 2109
-          }
+            "stars": 2108
+          },
+          "first_seen": "2026-08-28T21:32:03.559Z"
         },
         {
           "node_type": "item",
@@ -1073,7 +1137,8 @@
             "owner": "JunMa11",
             "repo": "SOTA-MedSeg",
             "stars": 1676
-          }
+          },
+          "first_seen": "2026-08-28T21:32:03.559Z"
         },
         {
           "node_type": "item",
@@ -1088,7 +1153,8 @@
             "owner": "fahadshamshad",
             "repo": "awesome-transformers-in-medical-imaging",
             "stars": 1296
-          }
+          },
+          "first_seen": "2026-08-28T21:32:03.559Z"
         },
         {
           "node_type": "item",
@@ -1103,7 +1169,8 @@
             "owner": "richard-peng-xia",
             "repo": "awesome-multimodal-in-medical-imaging",
             "stars": 974
-          }
+          },
+          "first_seen": "2026-08-28T21:32:03.559Z"
         },
         {
           "node_type": "item",
@@ -1118,7 +1185,8 @@
             "owner": "zhaozh10",
             "repo": "Awesome-CLIP-in-Medical-Imaging",
             "stars": 514
-          }
+          },
+          "first_seen": "2026-08-28T21:32:03.559Z"
         },
         {
           "node_type": "item",
@@ -1133,7 +1201,8 @@
             "owner": "burglarhobbit",
             "repo": "Awesome-Medical-Large-Language-Models",
             "stars": 390
-          }
+          },
+          "first_seen": "2026-08-28T21:32:03.559Z"
         },
         {
           "node_type": "item",
@@ -1148,7 +1217,8 @@
             "owner": "yangzhou12",
             "repo": "awesome-medical-vision-language-models",
             "stars": 110
-          }
+          },
+          "first_seen": "2026-08-28T21:32:03.559Z"
         },
         {
           "node_type": "item",
@@ -1163,7 +1233,8 @@
             "owner": "openmedlab",
             "repo": "Data-Centric-FM-Healthcare",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T21:32:03.559Z"
         }
       ],
       "title": "Other Medical Awesome Collection Projects"
@@ -1184,7 +1255,8 @@
             "owner": "OpenGVLab",
             "repo": "Multi-Modality-Arena",
             "stars": 566
-          }
+          },
+          "first_seen": "2026-08-28T21:32:03.559Z"
         },
         {
           "node_type": "item",
@@ -1199,7 +1271,8 @@
             "owner": "uni-medical",
             "repo": "A-Eval",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T21:32:03.559Z"
         },
         {
           "node_type": "item",
@@ -1214,7 +1287,8 @@
             "owner": "uni-medical",
             "repo": "GMAI-MMBench",
             "stars": 87
-          }
+          },
+          "first_seen": "2026-08-28T21:32:03.559Z"
         },
         {
           "node_type": "item",
@@ -1229,7 +1303,8 @@
             "owner": "MrGiovanni",
             "repo": "Touchstone",
             "stars": 140
-          }
+          },
+          "first_seen": "2026-08-28T21:32:03.559Z"
         }
       ],
       "title": "Evaluation Benchmark"
@@ -1251,8 +1326,9 @@
                 "last_commit": "2026-07-23T06:09:30Z",
                 "owner": "MIC-DKFZ",
                 "repo": "nnUNet",
-                "stars": 8834
-              }
+                "stars": 8836
+              },
+              "first_seen": "2026-08-28T21:32:03.559Z"
             },
             {
               "node_type": "item",
@@ -1267,7 +1343,8 @@
                 "owner": "MIC-DKFZ",
                 "repo": "MedNeXt",
                 "stars": 528
-              }
+              },
+              "first_seen": "2026-08-28T21:32:03.559Z"
             },
             {
               "node_type": "item",
@@ -1282,7 +1359,8 @@
                 "owner": "uni-medical",
                 "repo": "STU-Net",
                 "stars": 374
-              }
+              },
+              "first_seen": "2026-08-28T21:32:03.559Z"
             },
             {
               "node_type": "item",
@@ -1297,7 +1375,8 @@
                 "owner": "ljwztc",
                 "repo": "CLIP-Driven-Universal-Model",
                 "stars": 676
-              }
+              },
+              "first_seen": "2026-08-28T21:32:03.559Z"
             },
             {
               "node_type": "item",
@@ -1311,8 +1390,9 @@
                 "last_commit": "2026-08-13T20:13:38Z",
                 "owner": "Project-MONAI",
                 "repo": "tutorials",
-                "stars": 2534
-              }
+                "stars": 2533
+              },
+              "first_seen": "2026-08-28T21:32:03.559Z"
             },
             {
               "node_type": "item",
@@ -1326,8 +1406,9 @@
                 "last_commit": "2026-08-13T20:13:38Z",
                 "owner": "Project-MONAI",
                 "repo": "tutorials",
-                "stars": 2534
-              }
+                "stars": 2533
+              },
+              "first_seen": "2026-08-28T21:32:03.559Z"
             },
             {
               "node_type": "item",
@@ -1342,7 +1423,8 @@
                 "owner": "ljwztc",
                 "repo": "CLIP-Driven-Universal-Model",
                 "stars": 676
-              }
+              },
+              "first_seen": "2026-08-28T21:32:03.559Z"
             },
             {
               "node_type": "item",
@@ -1357,7 +1439,8 @@
                 "owner": "yhygao",
                 "repo": "CBIM-Medical-Image-Segmentation",
                 "stars": 344
-              }
+              },
+              "first_seen": "2026-08-28T21:32:03.559Z"
             },
             {
               "node_type": "item",
@@ -1372,7 +1455,8 @@
                 "owner": "yeerwen",
                 "repo": "UniSeg",
                 "stars": 192
-              }
+              },
+              "first_seen": "2026-08-28T21:32:03.559Z"
             },
             {
               "node_type": "item",
@@ -1387,7 +1471,8 @@
                 "owner": "ge-xing",
                 "repo": "Diff-UNet",
                 "stars": 198
-              }
+              },
+              "first_seen": "2026-08-28T21:32:03.559Z"
             },
             {
               "node_type": "item",
@@ -1402,7 +1487,8 @@
                 "owner": "xmindflow",
                 "repo": "LHUNet",
                 "stars": 68
-              }
+              },
+              "first_seen": "2026-08-28T21:32:03.559Z"
             },
             {
               "node_type": "item",
@@ -1417,7 +1503,8 @@
                 "owner": "PengchengShi1220",
                 "repo": "NexToU",
                 "stars": 84
-              }
+              },
+              "first_seen": "2026-08-28T21:32:03.559Z"
             },
             {
               "node_type": "item",
@@ -1432,7 +1519,8 @@
                 "owner": "BAAI-DCAI",
                 "repo": "SegVol",
                 "stars": 387
-              }
+              },
+              "first_seen": "2026-08-28T21:32:03.559Z"
             },
             {
               "node_type": "item",
@@ -1446,8 +1534,9 @@
                 "last_commit": "2026-08-13T20:13:38Z",
                 "owner": "Project-MONAI",
                 "repo": "tutorials",
-                "stars": 2534
-              }
+                "stars": 2533
+              },
+              "first_seen": "2026-08-28T21:32:03.559Z"
             },
             {
               "node_type": "item",
@@ -1462,7 +1551,8 @@
                 "owner": "mazurowski-lab",
                 "repo": "finetune-SAM",
                 "stars": 281
-              }
+              },
+              "first_seen": "2026-08-28T21:32:03.559Z"
             }
           ],
           "description": null,
@@ -1487,8 +1577,9 @@
             "last_commit": "2026-07-23T06:09:30Z",
             "owner": "MIC-DKFZ",
             "repo": "nnUNet",
-            "stars": 8834
-          }
+            "stars": 8836
+          },
+          "first_seen": "2026-08-28T21:32:03.559Z"
         },
         {
           "node_type": "item",
@@ -1499,11 +1590,12 @@
             "archived": false,
             "id": 214485001,
             "language": "Python",
-            "last_commit": "2026-08-26T13:54:22Z",
+            "last_commit": "2026-08-28T17:49:18Z",
             "owner": "Project-MONAI",
             "repo": "MONAI",
-            "stars": 8637
-          }
+            "stars": 8640
+          },
+          "first_seen": "2026-08-28T21:32:03.559Z"
         },
         {
           "node_type": "item",
@@ -1517,8 +1609,9 @@
             "last_commit": "2024-09-18T17:46:55Z",
             "owner": "facebookresearch",
             "repo": "segment-anything",
-            "stars": 54768
-          }
+            "stars": 54771
+          },
+          "first_seen": "2026-08-28T21:32:03.559Z"
         },
         {
           "node_type": "item",
@@ -1532,8 +1625,9 @@
             "last_commit": "2024-08-13T08:53:34Z",
             "owner": "open-mmlab",
             "repo": "mmsegmentation",
-            "stars": 9932
-          }
+            "stars": 9933
+          },
+          "first_seen": "2026-08-28T21:32:03.559Z"
         },
         {
           "node_type": "item",
@@ -1547,15 +1641,16 @@
             "last_commit": "2024-11-01T06:27:36Z",
             "owner": "open-mmlab",
             "repo": "mmpretrain",
-            "stars": 3850
-          }
+            "stars": 3851
+          },
+          "first_seen": "2026-08-28T21:32:03.559Z"
         }
       ],
       "title": "Related Foundation Toolbox Projects"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T21:19:26.715Z",
+    "last_updated": "2026-08-28T21:32:03.559Z",
     "original_repository_info": {
       "archived": false,
       "id": 745555192,
@@ -1563,7 +1658,7 @@
       "last_commit": "2025-01-23T03:32:22Z",
       "owner": "openmedlab",
       "repo": "Awesome-Medical-Dataset",
-      "stars": 2097
+      "stars": 2098
     },
     "original_repository_sha": "507ef7645e6abd254995aa72deb9a04393a11a98",
     "enhanced_repository": "enhansome/enhansome-Awesome-Medical-Dataset",
