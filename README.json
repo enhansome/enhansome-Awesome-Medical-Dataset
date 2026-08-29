@@ -14,12 +14,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Morphological organ segmentation for CT scans",
+                    "homepage": null,
                     "id": 225482186,
                     "language": "MATLAB",
+                    "license": "MIT",
                     "last_commit": "2020-12-01T01:21:34Z",
+                    "open_issues": 1,
                     "owner": "bbrister",
                     "repo": "ctOrganSegmentation",
-                    "stars": 24
+                    "stars": 24,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:32:03.559Z"
                 },
@@ -30,12 +35,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Tool for robust segmentation of >100 important anatomical structures in CT and MR images",
+                    "homepage": null,
                     "id": 449681070,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-13T09:31:46Z",
+                    "open_issues": 70,
                     "owner": "wasserth",
                     "repo": "TotalSegmentator",
-                    "stars": 2956
+                    "stars": 2957,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:32:03.559Z"
                 },
@@ -46,12 +56,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Tool for robust segmentation of >100 important anatomical structures in CT and MR images",
+                    "homepage": null,
                     "id": 449681070,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-13T09:31:46Z",
+                    "open_issues": 70,
                     "owner": "wasserth",
                     "repo": "TotalSegmentator",
-                    "stars": 2956
+                    "stars": 2957,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:32:03.559Z"
                 },
@@ -62,12 +77,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Implementation of few-shot baseline for MedFMC",
+                    "homepage": null,
                     "id": 652092319,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2023-11-27T02:31:48Z",
+                    "open_issues": 0,
                     "owner": "wllfore",
                     "repo": "MedFMC_fewshot_baseline",
-                    "stars": 18
+                    "stars": 18,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:32:03.559Z"
                 },
@@ -78,12 +98,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Tool for robust segmentation of >100 important anatomical structures in CT and MR images",
+                    "homepage": null,
                     "id": 449681070,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-13T09:31:46Z",
+                    "open_issues": 70,
                     "owner": "wasserth",
                     "repo": "TotalSegmentator",
-                    "stars": 2956
+                    "stars": 2957,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:32:03.559Z"
                 }
@@ -101,12 +126,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Dental model seg challenge docker repository build",
+                    "homepage": null,
                     "id": 536738887,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2022-09-14T20:37:25Z",
+                    "open_issues": 1,
                     "owner": "DCBIA-OrthoLab",
                     "repo": "3DTeethSeg22_challenge",
-                    "stars": 20
+                    "stars": 20,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:32:03.559Z"
                 },
@@ -117,12 +147,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ISBI'21, CBM'22] TRFE-Net for thyroid nodule segmentation",
+                    "homepage": null,
                     "id": 337971006,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-24T18:29:13Z",
+                    "open_issues": 9,
                     "owner": "haifangong",
                     "repo": "TRFE-Net-for-thyroid-nodule-segmentation",
-                    "stars": 137
+                    "stars": 137,
+                    "topics": [
+                      "semantic-segmentation"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:32:03.559Z"
                 },
@@ -133,12 +170,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ISBI'21, CBM'22] TRFE-Net for thyroid nodule segmentation",
+                    "homepage": null,
                     "id": 337971006,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-24T18:29:13Z",
+                    "open_issues": 9,
                     "owner": "haifangong",
                     "repo": "TRFE-Net-for-thyroid-nodule-segmentation",
-                    "stars": 137
+                    "stars": 137,
+                    "topics": [
+                      "semantic-segmentation"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:32:03.559Z"
                 }
@@ -156,12 +200,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Datasets of X-Ray imaging for detection of COVID-19",
+                    "homepage": "https://dasci.es/transferencia/dascii-hub/open-data/covidgr-2/",
                     "id": 267544703,
                     "language": null,
+                    "license": null,
                     "last_commit": "2020-09-23T11:44:39Z",
+                    "open_issues": 0,
                     "owner": "ari-dasci",
                     "repo": "OD-covidgr",
-                    "stars": 17
+                    "stars": 17,
+                    "topics": [
+                      "covid19",
+                      "datasets",
+                      "xray-imaging"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:32:03.559Z"
                 }
@@ -179,12 +232,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Colorectal Adenocarcinoma Gland(CRAG) to do some augment and it's label convert to json(COCO)",
+                    "homepage": null,
                     "id": 436144181,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2022-01-29T01:03:41Z",
+                    "open_issues": 3,
                     "owner": "XiaoyuZHK",
                     "repo": "CRAG-Dataset_Aug_ToCOCO",
-                    "stars": 10
+                    "stars": 10,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:32:03.559Z"
                 },
@@ -195,12 +253,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The official repository of \"AbdomenCT-1K: Is Abdominal Organ Segmentation A Solved Problem?\"",
+                    "homepage": "https://ieeexplore.ieee.org/document/9497733",
                     "id": 307948153,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2023-11-26T20:13:45Z",
+                    "open_issues": 4,
                     "owner": "JunMa11",
                     "repo": "AbdomenCT-1K",
-                    "stars": 267
+                    "stars": 267,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:32:03.559Z"
                 },
@@ -211,12 +274,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[MedIA2022]WORD: A large scale dataset, benchmark and clinical applicable study for abdominal organ segmentation from CT image",
+                    "homepage": "https://www.sciencedirect.com/science/article/pii/S1361841522002705",
                     "id": 422798260,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-09-04T05:58:16Z",
+                    "open_issues": 4,
                     "owner": "HiLab-git",
                     "repo": "WORD",
-                    "stars": 183
+                    "stars": 183,
+                    "topics": [
+                      "abdominal-organ-dataset",
+                      "annotation-efficient-learning",
+                      "dataset",
+                      "deep-learning",
+                      "medical-image-segmentation"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:32:03.559Z"
                 },
@@ -227,12 +301,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[MICCAI 2023] Liver Lesion Diagnosis Challenge on Multi-phase MRI",
+                    "homepage": null,
                     "id": 572798199,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-03-15T08:43:54Z",
+                    "open_issues": 1,
                     "owner": "LMMMEng",
                     "repo": "LLD-MMRI2023",
-                    "stars": 108
+                    "stars": 108,
+                    "topics": [
+                      "liver-lesion-diagnosis",
+                      "miccai-grand-challenge",
+                      "miccai2023",
+                      "multi-phase-mri"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:32:03.559Z"
                 },
@@ -243,12 +327,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[NeurIPS 2023] AbdomenAtlas 1.0 (5,195 CT volumes + 9 annotated classes)",
+                    "homepage": "https://www.cs.jhu.edu/~alanlab/Pubs23/qu2023abdomenatlas.pdf",
                     "id": 597551993,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-25T17:14:56Z",
+                    "open_issues": 2,
                     "owner": "MrGiovanni",
                     "repo": "AbdomenAtlas",
-                    "stars": 307
+                    "stars": 307,
+                    "topics": [
+                      "dataset",
+                      "multi-organ-segmentation"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:32:03.559Z"
                 }
@@ -266,12 +358,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 488908420,
                     "language": null,
+                    "license": null,
                     "last_commit": "2023-11-02T09:30:22Z",
+                    "open_issues": 4,
                     "owner": "XiaoweiXu",
                     "repo": "ImageCAS-A-Large-Scale-Dataset-and-Benchmark-for-Coronary-Artery-Segmentation-based-on-CT",
-                    "stars": 98
+                    "stars": 98,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:32:03.559Z"
                 },
@@ -282,12 +379,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "ICCV 2023, \"GraphEcho: Graph-Driven Unsupervised Domain Adaptation for Echocardiogram Video Segmentation\"",
+                    "homepage": null,
                     "id": 667763916,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-06-19T10:17:07Z",
+                    "open_issues": 6,
                     "owner": "xmed-lab",
                     "repo": "GraphEcho",
-                    "stars": 64
+                    "stars": 64,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:32:03.559Z"
                 }
@@ -305,12 +407,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Everything about the 'Large Scale Vertebrae Segmentation Challenge' @ MICCAI 2019-2020",
+                    "homepage": null,
                     "id": 321991435,
                     "language": "Jupyter Notebook",
+                    "license": "MIT",
                     "last_commit": "2021-07-23T08:16:37Z",
+                    "open_issues": 12,
                     "owner": "anjany",
                     "repo": "verse",
-                    "stars": 286
+                    "stars": 286,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:32:03.559Z"
                 },
@@ -321,12 +428,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Resources of the paper “Deep Learning to Segment Pelvic Bones: Large-scale CT Datasets and Baseline Models”.",
+                    "homepage": null,
                     "id": 320187075,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2022-01-23T08:25:41Z",
+                    "open_issues": 13,
                     "owner": "MIRACLE-Center",
                     "repo": "CTPelvic1K",
-                    "stars": 179
+                    "stars": 179,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:32:03.559Z"
                 },
@@ -337,12 +449,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Large-Scale Dataset for Spinal Vertebrae Segmentation in Computed Tomography",
+                    "homepage": null,
                     "id": 369055700,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-05-25T14:10:04Z",
+                    "open_issues": 1,
                     "owner": "MIRACLE-Center",
                     "repo": "CTSpine1K",
-                    "stars": 202
+                    "stars": 202,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:32:03.559Z"
                 }
@@ -360,12 +477,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Library packaging the Cholec80 dataset for easy handling with Tensorflow.",
+                    "homepage": null,
                     "id": 299936830,
                     "language": "Jupyter Notebook",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-09-17T14:36:37Z",
+                    "open_issues": 4,
                     "owner": "CAMMA-public",
                     "repo": "TF-Cholec80",
-                    "stars": 64
+                    "stars": 64,
+                    "topics": [
+                      "dataset",
+                      "surgery",
+                      "video"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:32:03.559Z"
                 },
@@ -376,12 +502,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "GitHub repository for Medico automatic polyp segmentation challenge",
+                    "homepage": "https://multimediaeval.github.io/editions/2020/tasks/medico/",
                     "id": 284502077,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2020-09-15T20:38:14Z",
+                    "open_issues": 1,
                     "owner": "DebeshJha",
                     "repo": "2020-MediaEval-Medico-polyp-segmentation",
-                    "stars": 12
+                    "stars": 12,
+                    "topics": [
+                      "algorithm-efficiency-task",
+                      "colon-cancer",
+                      "colonoscopy",
+                      "endoscopic-images",
+                      "endoscopic-vision",
+                      "polyp-segmentation-task",
+                      "polyps"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:32:03.559Z"
                 },
@@ -392,12 +531,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Novel image segmentation datasets collected from endoscopic videos of sinus surgery processes",
+                    "homepage": null,
                     "id": 241347259,
                     "language": null,
+                    "license": null,
                     "last_commit": "2023-02-11T17:19:15Z",
+                    "open_issues": 0,
                     "owner": "SURA23",
                     "repo": "Sinus-Surgery-Endoscopic-Image-Datasets",
-                    "stars": 12
+                    "stars": 12,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:32:03.559Z"
                 },
@@ -408,12 +552,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "EndoSLAM Dataset and an Unsupervised Monocular Visual Odometry and Depth Estimation Approach for Endoscopic Videos: Endo-SfMLearner",
+                    "homepage": "https://data.mendeley.com/datasets/cd2rtzm23r/1",
                     "id": 295397771,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-06-21T14:36:13Z",
+                    "open_issues": 14,
                     "owner": "CapsuleEndoscope",
                     "repo": "EndoSLAM",
-                    "stars": 308
+                    "stars": 308,
+                    "topics": [
+                      "capsule-endoscopy",
+                      "monocular-depth-estimation",
+                      "pose-estimation",
+                      "slam-dataset",
+                      "visual-odometry"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:32:03.559Z"
                 },
@@ -424,12 +579,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A public endoscopic video dataset for polyp detection",
+                    "homepage": null,
                     "id": 383314622,
                     "language": null,
+                    "license": null,
                     "last_commit": "2022-12-06T13:57:42Z",
+                    "open_issues": 9,
                     "owner": "dashishi",
                     "repo": "LDPolypVideo-Benchmark",
-                    "stars": 80
+                    "stars": 80,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:32:03.559Z"
                 },
@@ -440,12 +600,31 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Laparoscopic video dataset for surgical action triplet recognition",
+                    "homepage": null,
                     "id": 476035922,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-09-17T14:36:13Z",
+                    "open_issues": 0,
                     "owner": "CAMMA-public",
                     "repo": "cholect45",
-                    "stars": 44
+                    "stars": 44,
+                    "topics": [
+                      "action-recognition",
+                      "action-triplet",
+                      "cholect40",
+                      "cholect45",
+                      "cholect50",
+                      "dataset",
+                      "endoscopic-images",
+                      "laparoscopy",
+                      "python",
+                      "python3",
+                      "pytorch",
+                      "tensorflow",
+                      "tensorflow2"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:32:03.559Z"
                 },
@@ -456,12 +635,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Codes to process and train LIMUC dataset",
+                    "homepage": null,
                     "id": 446429055,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-01-01T15:23:25Z",
+                    "open_issues": 1,
                     "owner": "GorkemP",
                     "repo": "labeled-images-for-ulcerative-colitis",
-                    "stars": 36
+                    "stars": 36,
+                    "topics": [
+                      "classification",
+                      "computer-aided-diagnosis",
+                      "convolutional-neural-networks",
+                      "deep-learning",
+                      "endoscopic-images",
+                      "ulcerative-colitis"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:32:03.559Z"
                 },
@@ -472,12 +663,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official website for \"Video Polyp Segmentation: A Deep Learning Perspective (MIR 2022)\"",
+                    "homepage": null,
                     "id": 464840223,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-01-12T02:35:24Z",
+                    "open_issues": 2,
                     "owner": "GewelsJI",
                     "repo": "VPS",
-                    "stars": 222
+                    "stars": 222,
+                    "topics": [
+                      "awesome-polyp-segmentation",
+                      "colonoscopy",
+                      "deep-learning",
+                      "jittor",
+                      "medical-image-analysis",
+                      "medical-image-segmentation",
+                      "polyp-segmentation",
+                      "pytorch",
+                      "video-object-segmentation",
+                      "video-polyp-segmentation"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:32:03.559Z"
                 }
@@ -495,12 +702,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 603957692,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2023-02-20T02:56:35Z",
+                    "open_issues": 1,
                     "owner": "aishangcengloua",
                     "repo": "OCT_Classification",
-                    "stars": 10
+                    "stars": 10,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:32:03.559Z"
                 },
@@ -511,12 +723,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The model of \"Attention Based Glaucoma Detection: A Large-scale Database with a CNN Model\" (CVPR2019)",
+                    "homepage": null,
                     "id": 177749226,
                     "language": null,
+                    "license": null,
                     "last_commit": "2024-12-13T16:30:09Z",
+                    "open_issues": 58,
                     "owner": "smilell",
                     "repo": "AG-CNN",
-                    "stars": 79
+                    "stars": 79,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:32:03.559Z"
                 },
@@ -527,12 +744,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 236085694,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2023-07-06T22:21:31Z",
+                    "open_issues": 3,
                     "owner": "miag-ull",
                     "repo": "rim-one-dl",
-                    "stars": 38
+                    "stars": 38,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:32:03.559Z"
                 },
@@ -543,12 +765,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code and dataset for the paper \"Deep Learning Based Glaucoma Detection with Cropped Optic Cup and Disc and Blood Vessel Segmentation\"",
+                    "homepage": null,
                     "id": 246362489,
                     "language": "Jupyter Notebook",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-02-02T22:05:46Z",
+                    "open_issues": 0,
                     "owner": "mirtanvirislam",
                     "repo": "Deep-Learning-Based-Glaucoma-Detection-with-Cropped-Optic-Cup-and-Disc-and-Blood-Vessel-Segmentation",
-                    "stars": 10
+                    "stars": 10,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:32:03.559Z"
                 },
@@ -559,12 +786,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Automated machine learning can facilitate the early diagnosis and timely treatment of diabetic retinopathy. Following the 1st Diabetic Retinopathy: Segmentation and Grading Challenge held with ISBI in 2018, we would like to promote the progress further through 2nd challenge using a new dataset, Deep Diabetic Retinopathy Image Dataset (DeepDRiD). The challenge is subdivided into three tasks as follows:  A. Dual-View Disease Grading: Classification of fundus images according to the severity level of diabetic retinopathy using dual view retinal fundus images. B. Image Quality Estimation: Fundus quality assessment for overall image quality, artifacts, clarity, and field definition. C. Transfer Learning: Explore the generalizability of a Diabetic Retinopathy (DR) grading system. The robust and generalizable models are expected to be developed to solve clinical issues in reality.",
+                    "homepage": null,
                     "id": 361703361,
                     "language": null,
+                    "license": "CC-BY-SA-4.0",
                     "last_commit": "2023-08-15T09:35:03Z",
+                    "open_issues": 2,
                     "owner": "deepdrdoc",
                     "repo": "DeepDRiD",
-                    "stars": 71
+                    "stars": 71,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:32:03.559Z"
                 },
@@ -575,12 +807,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 500509574,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-02-10T15:18:02Z",
+                    "open_issues": 4,
                     "owner": "olivesgatech",
                     "repo": "OLIVES_Dataset",
-                    "stars": 25
+                    "stars": 25,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:32:03.559Z"
                 },
@@ -591,12 +828,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 690111400,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-28T09:53:02Z",
+                    "open_issues": 2,
                     "owner": "Negin-Ghamsarian",
                     "repo": "Cataract-1K",
-                    "stars": 39
+                    "stars": 39,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:32:03.559Z"
                 }
@@ -614,12 +856,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 358402792,
                     "language": "Jupyter Notebook",
+                    "license": null,
                     "last_commit": "2026-03-05T15:54:39Z",
+                    "open_issues": 1,
                     "owner": "mattgroh",
                     "repo": "fitzpatrick17k",
-                    "stars": 148
+                    "stars": 148,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:32:03.559Z"
                 }
@@ -637,12 +884,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Cervix93 Cytology Dataset and the Baseline Method",
+                    "homepage": null,
                     "id": 159272077,
                     "language": "Matlab",
+                    "license": null,
                     "last_commit": "2023-10-28T04:48:01Z",
+                    "open_issues": 2,
                     "owner": "parham-ap",
                     "repo": "cytology_dataset",
-                    "stars": 40
+                    "stars": 40,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:32:03.559Z"
                 },
@@ -653,12 +905,32 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The complete blood count (CBC) dataset contains a total of 360 blood smear images of red blood cells (RBCs), white blood cells (WBCs), and Platelets with annotations.",
+                    "homepage": "http://ietdl.org/t/kmgztb",
                     "id": 131436171,
                     "language": null,
+                    "license": "MIT",
                     "last_commit": "2021-06-12T22:09:54Z",
+                    "open_issues": 1,
                     "owner": "MahmudulAlam",
                     "repo": "Complete-Blood-Cell-Count-Dataset",
-                    "stars": 98
+                    "stars": 98,
+                    "topics": [
+                      "automated-diagnosis",
+                      "blood-cell-count-dataset",
+                      "blood-cell-counting",
+                      "blood-cell-dataset",
+                      "blood-cell-detection",
+                      "blood-cells",
+                      "cbc",
+                      "cbc-dataset",
+                      "counting",
+                      "dataset",
+                      "detection",
+                      "platelet",
+                      "rbc",
+                      "wbc"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:32:03.559Z"
                 },
@@ -669,12 +941,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Lung and Colon Cancer Histopathological Image Dataset",
+                    "homepage": null,
                     "id": 228096090,
                     "language": null,
+                    "license": null,
                     "last_commit": "2020-09-04T11:32:32Z",
+                    "open_issues": 9,
                     "owner": "tampapath",
                     "repo": "lung_colon_image_set",
-                    "stars": 66
+                    "stars": 66,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:32:03.559Z"
                 },
@@ -685,12 +962,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A large, multi-domain mitotic Figure Dataset",
+                    "homepage": null,
                     "id": 621165324,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-04-24T13:12:03Z",
+                    "open_issues": 2,
                     "owner": "DeepMicroscopy",
                     "repo": "MIDOGpp",
-                    "stars": 27
+                    "stars": 27,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:32:03.559Z"
                 }
@@ -713,12 +995,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dataset of medical images, captions, subfigure-subcaption annotations, and inline textual references",
+                "homepage": null,
                 "id": 300088120,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-02-19T20:27:49Z",
+                "open_issues": 5,
                 "owner": "allenai",
                 "repo": "medicat",
-                "stars": 176
+                "stars": 176,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:32:03.559Z"
             },
@@ -729,12 +1016,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PMC-VQA is a large-scale medical visual question-answering dataset, which contains 227k VQA pairs of 149k images that cover various modalities or diseases. ",
+                "homepage": null,
                 "id": 641227214,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-12-06T02:24:55Z",
+                "open_issues": 16,
                 "owner": "xiaoman-zhang",
                 "repo": "PMC-VQA",
-                "stars": 238
+                "stars": 238,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:32:03.559Z"
             },
@@ -745,12 +1037,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 776131132,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2025-07-02T00:39:55Z",
+                "open_issues": 0,
                 "owner": "BioMedIA-MBZUAI",
                 "repo": "MedPromptX",
-                "stars": 71
+                "stars": 71,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:32:03.559Z"
             },
@@ -761,12 +1058,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Integrating histology and spatial transcriptomics - NeurIPS 2024",
+                "homepage": null,
                 "id": 767130682,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2026-04-16T07:48:46Z",
+                "open_issues": 24,
                 "owner": "mahmoodlab",
                 "repo": "HEST",
-                "stars": 433
+                "stars": 433,
+                "topics": [
+                  "computational-pathology",
+                  "histology",
+                  "spatial-transcriptomics"
+                ]
               },
               "first_seen": "2026-08-28T21:32:03.559Z"
             },
@@ -777,12 +1083,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ECCV 2024] Official Implementation of 《WSI-VQA: Interpreting Whole Slide Image by Generative Question Answering》 ",
+                "homepage": null,
                 "id": 823491599,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-12-18T04:50:23Z",
+                "open_issues": 5,
                 "owner": "cpystan",
                 "repo": "WSI-VQA",
-                "stars": 67
+                "stars": 67,
+                "topics": [
+                  "ai-in-healthcare",
+                  "aigc",
+                  "deep-learning",
+                  "multi-modal",
+                  "pathology",
+                  "visual-language",
+                  "whole-slide-imaging"
+                ]
               },
               "first_seen": "2026-08-28T21:32:03.559Z"
             },
@@ -793,12 +1112,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 836100054,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-01-21T23:13:44Z",
+                "open_issues": 0,
                 "owner": "Holipori",
                 "repo": "Medical-CXR-VQA",
-                "stars": 46
+                "stars": 46,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:32:03.559Z"
             },
@@ -809,12 +1133,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 790425673,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-06-02T04:46:25Z",
+                "open_issues": 0,
                 "owner": "JiawenChenn",
                 "repo": "STimage-1K4M",
-                "stars": 91
+                "stars": 91,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:32:03.559Z"
             },
@@ -825,12 +1154,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "EEG-Audio-Video Dataset for Emotion Recognition in Conversations",
+                "homepage": null,
                 "id": 702820942,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-02-03T11:28:55Z",
+                "open_issues": 2,
                 "owner": "nubcico",
                 "repo": "EAV",
-                "stars": 48
+                "stars": 48,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:32:03.559Z"
             },
@@ -841,12 +1175,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Frontiers in Intelligent Colonoscopy [ColonSurvey | ColonINST | ColonGPT]",
+                "homepage": "https://github.com/ai4colonoscopy",
                 "id": 873317997,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-18T23:29:22Z",
+                "open_issues": 0,
                 "owner": "ai4colonoscopy",
                 "repo": "IntelliScope",
-                "stars": 111
+                "stars": 111,
+                "topics": [
+                  "colonoscopy",
+                  "colonoscopy-survey",
+                  "endoscopy",
+                  "medical-ai",
+                  "medical-image-analysis",
+                  "multimodal-colonoscopy",
+                  "multimodal-data",
+                  "multimodal-large-language-models",
+                  "polyp",
+                  "polyp-segmentation",
+                  "polyp-survey",
+                  "vision-language"
+                ]
               },
               "first_seen": "2026-08-28T21:32:03.559Z"
             }
@@ -864,12 +1216,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Medical Question-Answering datasets prepared for the TREC 2017 LiveQA challenge (Medical Task)",
+                "homepage": null,
                 "id": 123050899,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-05-13T15:26:41Z",
+                "open_issues": 1,
                 "owner": "abachaa",
                 "repo": "LiveQA_MedicalTask_TREC2017",
-                "stars": 56
+                "stars": 56,
+                "topics": [
+                  "consumer-health-questions",
+                  "medical-natural-language-processing",
+                  "medical-question-answering",
+                  "qa",
+                  "qa-data",
+                  "question-answering",
+                  "question-focus",
+                  "question-summarization",
+                  "question-type"
+                ]
               },
               "first_seen": "2026-08-28T21:32:03.559Z"
             },
@@ -880,12 +1247,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is updated version of the dataset for Chinese community medical question answering.",
+                "homepage": null,
                 "id": 156634102,
                 "language": null,
+                "license": "GPL-3.0",
                 "last_commit": "2019-01-09T01:09:09Z",
+                "open_issues": 4,
                 "owner": "zhangsheng93",
                 "repo": "cMedQA2",
-                "stars": 387
+                "stars": 388,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:32:03.559Z"
             },
@@ -896,12 +1268,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Chinese medical question answering dataset",
+                "homepage": null,
                 "id": 173945614,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2020-01-14T03:50:32Z",
+                "open_issues": 1,
                 "owner": "hejunqing",
                 "repo": "webMedQA",
-                "stars": 72
+                "stars": 72,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:32:03.559Z"
             },
@@ -912,12 +1289,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code and data for MedQA",
+                "homepage": null,
                 "id": 299189142,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-12-01T18:23:49Z",
+                "open_issues": 13,
                 "owner": "jind11",
                 "repo": "MedQA",
-                "stars": 392
+                "stars": 392,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:32:03.559Z"
             },
@@ -928,12 +1310,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Largest-scale Chinese Medical QA Dataset： with 26,000,000 question answer pairs.",
+                "homepage": null,
                 "id": 635374839,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-03-14T04:54:23Z",
+                "open_issues": 4,
                 "owner": "FreedomIntelligence",
                 "repo": "Huatuo-26M",
-                "stars": 346
+                "stars": 346,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:32:03.559Z"
             },
@@ -944,12 +1331,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CMB, A Comprehensive  Medical Benchmark in Chinese",
+                "homepage": null,
                 "id": 667681958,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-03-27T14:42:22Z",
+                "open_issues": 4,
                 "owner": "FreedomIntelligence",
                 "repo": "CMB",
-                "stars": 251
+                "stars": 251,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:32:03.559Z"
             },
@@ -960,12 +1352,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 666791229,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-04-10T08:53:57Z",
+                "open_issues": 5,
                 "owner": "ywjawmw",
                 "repo": "TCMBench",
-                "stars": 71
+                "stars": 71,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:32:03.559Z"
             },
@@ -976,12 +1373,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Chinese National Medical Licensing Examination dataset and large languge model benchmarks",
+                "homepage": null,
                 "id": 648547451,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-12-02T22:27:57Z",
+                "open_issues": 1,
                 "owner": "williamliujl",
                 "repo": "CMExam",
-                "stars": 97
+                "stars": 97,
+                "topics": [
+                  "benchmark",
+                  "llm",
+                  "question-answering"
+                ]
               },
               "first_seen": "2026-08-28T21:32:03.559Z"
             },
@@ -992,12 +1398,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official Inplementation of 《WsiCaption: Multiple Instance Generation of Pathology Reports for Gigapixel Whole Slide Images》(MICCAI 2024 Oral/ Best Paper Candidate)",
+                "homepage": null,
                 "id": 746560609,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-06-06T02:59:51Z",
+                "open_issues": 13,
                 "owner": "cpystan",
                 "repo": "Wsi-Caption",
-                "stars": 86
+                "stars": 86,
+                "topics": [
+                  "aigc",
+                  "pathology",
+                  "python",
+                  "visual-language",
+                  "wsi"
+                ]
               },
               "first_seen": "2026-08-28T21:32:03.559Z"
             },
@@ -1008,12 +1425,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The RJUA-QA (RenJi hospital department of Urology and Antgroup collaborative Question and Answer dataset) is an innovative medical urology specialty QA inference dataset. ",
+                "homepage": null,
                 "id": 735773826,
                 "language": null,
+                "license": "CC-BY-4.0",
                 "last_commit": "2024-04-22T08:08:03Z",
+                "open_issues": 3,
                 "owner": "alipay",
                 "repo": "RJU_Ant_QA",
-                "stars": 62
+                "stars": 62,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:32:03.559Z"
             },
@@ -1024,12 +1446,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 706288227,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-03-13T13:30:43Z",
+                "open_issues": 9,
                 "owner": "ncclabsustech",
                 "repo": "Chinese_reading_task_eeg_processing",
-                "stars": 75
+                "stars": 75,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:32:03.559Z"
             }
@@ -1051,12 +1478,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of loss functions for medical image segmentation",
+            "homepage": null,
             "id": 189437648,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-11-01T23:10:13Z",
+            "open_issues": 3,
             "owner": "JunMa11",
             "repo": "SegLossOdyssey",
-            "stars": 4007
+            "stars": 4007,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:32:03.559Z"
         },
@@ -1067,12 +1499,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Curated list of awesome open source healthcare software, libraries, tools and resources.",
+            "homepage": null,
             "id": 52342167,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-05-05T10:41:03Z",
+            "open_issues": 65,
             "owner": "kakoni",
             "repo": "awesome-healthcare",
-            "stars": 3953
+            "stars": 3953,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "health",
+              "list"
+            ]
           },
           "first_seen": "2026-08-28T21:32:03.559Z"
         },
@@ -1083,12 +1525,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "中文医学NLP公开资源整理：术语集/语料库/词向量/预训练模型/知识图谱/命名实体识别/QA/信息抽取/模型/论文/etc",
+            "homepage": null,
             "id": 218430828,
             "language": null,
+            "license": null,
             "last_commit": "2024-01-17T06:47:55Z",
+            "open_issues": 2,
             "owner": "GanjinZero",
             "repo": "awesome_Chinese_medical_NLP",
-            "stars": 2625
+            "stars": 2625,
+            "topics": [
+              "dataset",
+              "dictionary",
+              "knowledge-graph",
+              "medical",
+              "model",
+              "nlp",
+              "resource"
+            ]
           },
           "first_seen": "2026-08-28T21:32:03.559Z"
         },
@@ -1099,12 +1554,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome GAN for Medical Imaging",
+            "homepage": null,
             "id": 101222904,
             "language": null,
+            "license": null,
             "last_commit": "2022-05-29T21:59:19Z",
+            "open_issues": 2,
             "owner": "xinario",
             "repo": "awesome-gan-for-medical-imaging",
-            "stars": 2362
+            "stars": 2362,
+            "topics": [
+              "ct-denoising",
+              "deeplearning",
+              "detection",
+              "gan",
+              "generative-adversarial-network",
+              "medical-image-synthesis",
+              "medical-imaging",
+              "reconstruction",
+              "registration",
+              "segmentation",
+              "super-resolution"
+            ]
           },
           "first_seen": "2026-08-28T21:32:03.559Z"
         },
@@ -1115,12 +1587,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Diffusion Models in Medical Imaging (Published in Medical Image Analysis Journal)",
+            "homepage": "https://www.sciencedirect.com/science/article/pii/S1361841523001068",
             "id": 540766853,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-11-17T17:13:18Z",
+            "open_issues": 2,
             "owner": "amirhossein-kz",
             "repo": "Awesome-Diffusion-Models-in-Medical-Imaging",
-            "stars": 2108
+            "stars": 2108,
+            "topics": [
+              "ddpm",
+              "deep-learning",
+              "denoising",
+              "diffusion",
+              "diffusion-models",
+              "generation",
+              "generative-models",
+              "machine-learning",
+              "medical-imaging",
+              "ncsn",
+              "reconstruction",
+              "score-based",
+              "score-matching",
+              "sde",
+              "segmentation",
+              "vae"
+            ]
           },
           "first_seen": "2026-08-28T21:32:03.559Z"
         },
@@ -1131,12 +1625,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SOTA medical image segmentation methods based on various challenges",
+            "homepage": null,
             "id": 90474193,
             "language": null,
+            "license": null,
             "last_commit": "2023-12-12T02:58:36Z",
+            "open_issues": 2,
             "owner": "JunMa11",
             "repo": "SOTA-MedSeg",
-            "stars": 1676
+            "stars": 1676,
+            "topics": [
+              "image",
+              "medical",
+              "segmentation"
+            ]
           },
           "first_seen": "2026-08-28T21:32:03.559Z"
         },
@@ -1147,12 +1650,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of resources on applications of Transformers in Medical Imaging.",
+            "homepage": null,
             "id": 434747216,
             "language": null,
+            "license": null,
             "last_commit": "2026-06-21T11:56:54Z",
+            "open_issues": 2,
             "owner": "fahadshamshad",
             "repo": "awesome-transformers-in-medical-imaging",
-            "stars": 1296
+            "stars": 1296,
+            "topics": [
+              "awesome-list",
+              "brain-tumor-segmentation",
+              "brats2021",
+              "clinical-report",
+              "covid-19",
+              "deep-neural-networks",
+              "medical-image-analysis",
+              "medical-image-classification",
+              "medical-image-detection",
+              "medical-image-reconstruction",
+              "medical-image-registration",
+              "medical-image-segmentation",
+              "medical-image-synthesis",
+              "medical-imaging",
+              "medical-report-generate",
+              "transformers",
+              "vision-transformers"
+            ]
           },
           "first_seen": "2026-08-28T21:32:03.559Z"
         },
@@ -1163,12 +1689,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of resources on applications of multi-modal learning in medical imaging.",
+            "homepage": null,
             "id": 513534410,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-29T17:00:12Z",
+            "open_issues": 2,
             "owner": "richard-peng-xia",
             "repo": "awesome-multimodal-in-medical-imaging",
-            "stars": 974
+            "stars": 974,
+            "topics": [
+              "large-language-models",
+              "large-multimodal-models",
+              "medical-imaging",
+              "medical-report-generation",
+              "multimodal-deep-learning",
+              "multimodal-large-language-models",
+              "multimodal-learning",
+              "visual-question-answering"
+            ]
           },
           "first_seen": "2026-08-28T21:32:03.559Z"
         },
@@ -1179,12 +1719,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Survey on CLIP in Medical Imaging",
+            "homepage": null,
             "id": 721500342,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-03-26T06:24:32Z",
+            "open_issues": 1,
             "owner": "zhaozh10",
             "repo": "Awesome-CLIP-in-Medical-Imaging",
-            "stars": 514
+            "stars": 514,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:32:03.559Z"
         },
@@ -1195,12 +1740,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Curated papers on Large Language Models in Healthcare and Medical domain",
+            "homepage": null,
             "id": 659499040,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2025-05-29T16:58:40Z",
+            "open_issues": 4,
             "owner": "burglarhobbit",
             "repo": "Awesome-Medical-Large-Language-Models",
-            "stars": 390
+            "stars": 390,
+            "topics": [
+              "large-language-models",
+              "large-vision-language-models",
+              "multimodal-large-language-models"
+            ]
           },
           "first_seen": "2026-08-28T21:32:03.559Z"
         },
@@ -1211,12 +1765,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of resources on Medical Vision-Language Models",
+            "homepage": null,
             "id": 556768637,
             "language": null,
+            "license": null,
             "last_commit": "2023-12-23T05:22:07Z",
+            "open_issues": 1,
             "owner": "yangzhou12",
             "repo": "awesome-medical-vision-language-models",
-            "stars": 110
+            "stars": 110,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:32:03.559Z"
         },
@@ -1227,12 +1786,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 785032433,
             "language": null,
+            "license": null,
             "last_commit": "2024-10-08T04:23:50Z",
+            "open_issues": 0,
             "owner": "openmedlab",
             "repo": "Data-Centric-FM-Healthcare",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:32:03.559Z"
         }
@@ -1249,12 +1813,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chatbot Arena meets multi-modality! Multi-Modality Arena allows you to benchmark vision-language models side-by-side while providing images as inputs. Supports MiniGPT-4, LLaMA-Adapter V2, LLaVA, BLIP-2, and many more!",
+            "homepage": null,
             "id": 638869686,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-04-21T11:14:46Z",
+            "open_issues": 24,
             "owner": "OpenGVLab",
             "repo": "Multi-Modality-Arena",
-            "stars": 566
+            "stars": 566,
+            "topics": [
+              "chat",
+              "chatbot",
+              "chatgpt",
+              "gradio",
+              "large-language-models",
+              "llms",
+              "multi-modality",
+              "vision-language-model",
+              "vqa"
+            ]
           },
           "first_seen": "2026-08-28T21:32:03.559Z"
         },
@@ -1265,12 +1844,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MedIA 2025 | A-Eval: A Benchmark for Cross-Dataset and Cross-Modality Evaluation of Abdominal Multi-Organ Segmentation",
+            "homepage": null,
             "id": 688545427,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-02-17T04:43:31Z",
+            "open_issues": 0,
             "owner": "uni-medical",
             "repo": "A-Eval",
-            "stars": 34
+            "stars": 34,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:32:03.559Z"
         },
@@ -1281,12 +1865,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GMAI-MMBench: A Comprehensive Multimodal Evaluation Benchmark Towards General Medical AI.",
+            "homepage": "https://uni-medical.github.io/GMAI-MMBench.github.io/",
             "id": 839934550,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2024-12-17T05:59:33Z",
+            "open_issues": 3,
             "owner": "uni-medical",
             "repo": "GMAI-MMBench",
-            "stars": 87
+            "stars": 87,
+            "topics": [
+              "benchmark",
+              "gmai",
+              "llm",
+              "lmm",
+              "medagi",
+              "medical",
+              "vlm"
+            ]
           },
           "first_seen": "2026-08-28T21:32:03.559Z"
         },
@@ -1297,12 +1894,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NeurIPS 2024] Touchstone - Benchmarking AI on 5,172 o.o.d. CT volumes and 9 anatomical structures",
+            "homepage": "https://www.cs.jhu.edu/~zongwei/publication/bassi2024touchstone.pdf",
             "id": 810617149,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-25T17:12:46Z",
+            "open_issues": 1,
             "owner": "MrGiovanni",
             "repo": "Touchstone",
-            "stars": 140
+            "stars": 140,
+            "topics": [
+              "benchmark",
+              "medical-image-analysis",
+              "segmentation"
+            ]
           },
           "first_seen": "2026-08-28T21:32:03.559Z"
         }
@@ -1321,12 +1927,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 181846371,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-23T06:09:30Z",
+                "open_issues": 86,
                 "owner": "MIC-DKFZ",
                 "repo": "nnUNet",
-                "stars": 8836
+                "stars": 8836,
+                "topics": [
+                  "segmentation"
+                ]
               },
               "first_seen": "2026-08-28T21:32:03.559Z"
             },
@@ -1337,12 +1950,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[MICCAI 2023] MedNeXt is a fully ConvNeXt architecture for 3D medical image segmentation.",
+                "homepage": "https://arxiv.org/pdf/2303.09975",
                 "id": 653196037,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-11-02T14:50:19Z",
+                "open_issues": 16,
                 "owner": "MIC-DKFZ",
                 "repo": "MedNeXt",
-                "stars": 528
+                "stars": 528,
+                "topics": [
+                  "convnext",
+                  "ct-segmentation",
+                  "medical-ai",
+                  "medical-image-analysis",
+                  "medical-image-segmentation",
+                  "medical-imaging",
+                  "mednext",
+                  "mri-segmentation",
+                  "transformers",
+                  "unet-image-segmentation"
+                ]
               },
               "first_seen": "2026-08-28T21:32:03.559Z"
             },
@@ -1353,12 +1982,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The largest pre-trained medical image segmentation model (1.4B parameters) based on the largest public dataset (>100k annotations), up until April 2023.",
+                "homepage": null,
                 "id": 626941525,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-09-03T03:13:43Z",
+                "open_issues": 25,
                 "owner": "uni-medical",
                 "repo": "STU-Net",
-                "stars": 374
+                "stars": 374,
+                "topics": [
+                  "foundation-models",
+                  "medical-image-segmentation",
+                  "pretrained-models"
+                ]
               },
               "first_seen": "2026-08-28T21:32:03.559Z"
             },
@@ -1369,12 +2007,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV 2023] CLIP-Driven Universal Model; Rank first in MSD Competition.",
+                "homepage": null,
                 "id": 578868162,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-10-24T08:42:13Z",
+                "open_issues": 15,
                 "owner": "ljwztc",
                 "repo": "CLIP-Driven-Universal-Model",
-                "stars": 676
+                "stars": 676,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:32:03.559Z"
             },
@@ -1385,12 +2028,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MONAI Tutorials",
+                "homepage": null,
                 "id": 288774122,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-13T20:13:38Z",
+                "open_issues": 124,
                 "owner": "Project-MONAI",
                 "repo": "tutorials",
-                "stars": 2533
+                "stars": 2533,
+                "topics": [
+                  "jupyter-notebook",
+                  "monai",
+                  "monai-tutorials",
+                  "monai-workflows",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T21:32:03.559Z"
             },
@@ -1401,12 +2055,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MONAI Tutorials",
+                "homepage": null,
                 "id": 288774122,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-13T20:13:38Z",
+                "open_issues": 124,
                 "owner": "Project-MONAI",
                 "repo": "tutorials",
-                "stars": 2533
+                "stars": 2533,
+                "topics": [
+                  "jupyter-notebook",
+                  "monai",
+                  "monai-tutorials",
+                  "monai-workflows",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T21:32:03.559Z"
             },
@@ -1417,12 +2082,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV 2023] CLIP-Driven Universal Model; Rank first in MSD Competition.",
+                "homepage": null,
                 "id": 578868162,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-10-24T08:42:13Z",
+                "open_issues": 15,
                 "owner": "ljwztc",
                 "repo": "CLIP-Driven-Universal-Model",
-                "stars": 676
+                "stars": 676,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:32:03.559Z"
             },
@@ -1433,12 +2103,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A PyTorch framework for medical image segmentation",
+                "homepage": null,
                 "id": 445364678,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-04-15T03:04:34Z",
+                "open_issues": 8,
                 "owner": "yhygao",
                 "repo": "CBIM-Medical-Image-Segmentation",
-                "stars": 344
+                "stars": 344,
+                "topics": [
+                  "deep-learning",
+                  "medical-image-segmentation",
+                  "medical-imaging",
+                  "pytorch",
+                  "segmentation"
+                ]
               },
               "first_seen": "2026-08-28T21:32:03.559Z"
             },
@@ -1449,12 +2130,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MICCAI 2023 Paper (Early Acceptance)",
+                "homepage": null,
                 "id": 624726071,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-11-05T05:10:38Z",
+                "open_issues": 3,
                 "owner": "yeerwen",
                 "repo": "UniSeg",
-                "stars": 192
+                "stars": 192,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:32:03.559Z"
             },
@@ -1465,12 +2151,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Diff-UNet: A Diffusion Embedded Network for Volumetric Segmentation. (using diffusion for 3D medical image segmentation)",
+                "homepage": null,
                 "id": 615143942,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-03-22T00:27:37Z",
+                "open_issues": 34,
                 "owner": "ge-xing",
                 "repo": "Diff-UNet",
-                "stars": 198
+                "stars": 198,
+                "topics": [
+                  "3d",
+                  "brats2020",
+                  "btcv",
+                  "diffusion-models",
+                  "medical-imaging",
+                  "segmentation",
+                  "unet"
+                ]
               },
               "first_seen": "2026-08-28T21:32:03.559Z"
             },
@@ -1481,12 +2180,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LHU-Net: A Lean Hybrid U-Net for Cost-efficient, High-performance Volumetric Medical Image Segmentation",
+                "homepage": "https://arxiv.org/abs/2404.05102",
                 "id": 777462652,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-01-30T16:47:43Z",
+                "open_issues": 1,
                 "owner": "xmindflow",
                 "repo": "LHUNet",
-                "stars": 68
+                "stars": 68,
+                "topics": [
+                  "acdc",
+                  "brats",
+                  "cost-efficiency",
+                  "deep-learning",
+                  "hybrid",
+                  "lhu-net",
+                  "lhunet",
+                  "medical-imaging",
+                  "segmentation",
+                  "synapse"
+                ]
               },
               "first_seen": "2026-08-28T21:32:03.559Z"
             },
@@ -1497,12 +2212,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NexToU: Efficient Topology-Aware U-Net for Medical Image Segmentation",
+                "homepage": null,
                 "id": 645254026,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-11-19T03:15:20Z",
+                "open_issues": 0,
                 "owner": "PengchengShi1220",
                 "repo": "NexToU",
-                "stars": 84
+                "stars": 84,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:32:03.559Z"
             },
@@ -1513,12 +2233,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official code for \"SegVol: Universal and Interactive Volumetric Medical Image Segmentation\".",
+                "homepage": null,
                 "id": 716955675,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-01-11T05:15:18Z",
+                "open_issues": 14,
                 "owner": "BAAI-DCAI",
                 "repo": "SegVol",
-                "stars": 387
+                "stars": 387,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:32:03.559Z"
             },
@@ -1529,12 +2254,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MONAI Tutorials",
+                "homepage": null,
                 "id": 288774122,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-13T20:13:38Z",
+                "open_issues": 124,
                 "owner": "Project-MONAI",
                 "repo": "tutorials",
-                "stars": 2533
+                "stars": 2533,
+                "topics": [
+                  "jupyter-notebook",
+                  "monai",
+                  "monai-tutorials",
+                  "monai-workflows",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T21:32:03.559Z"
             },
@@ -1545,12 +2281,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is an official repo for fine-tuning SAM to customized medical images.",
+                "homepage": "https://arxiv.org/abs/2404.09957",
                 "id": 784347564,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-10-18T17:35:47Z",
+                "open_issues": 10,
                 "owner": "mazurowski-lab",
                 "repo": "finetune-SAM",
-                "stars": 281
+                "stars": 281,
+                "topics": [
+                  "finetune",
+                  "foundation-models",
+                  "medical-imaging",
+                  "sam"
+                ]
               },
               "first_seen": "2026-08-28T21:32:03.559Z"
             }
@@ -1572,12 +2318,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 181846371,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-23T06:09:30Z",
+            "open_issues": 86,
             "owner": "MIC-DKFZ",
             "repo": "nnUNet",
-            "stars": 8836
+            "stars": 8836,
+            "topics": [
+              "segmentation"
+            ]
           },
           "first_seen": "2026-08-28T21:32:03.559Z"
         },
@@ -1588,12 +2341,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI Toolkit for Healthcare Imaging",
+            "homepage": "https://project-monai.github.io/",
             "id": 214485001,
             "language": "Python",
-            "last_commit": "2026-08-28T17:49:18Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T23:24:40Z",
+            "open_issues": 530,
             "owner": "Project-MONAI",
             "repo": "MONAI",
-            "stars": 8640
+            "stars": 8641,
+            "topics": [
+              "deep-learning",
+              "healthcare-imaging",
+              "medical-image-computing",
+              "medical-image-processing",
+              "monai",
+              "python3",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T21:32:03.559Z"
         },
@@ -1604,12 +2370,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.",
+            "homepage": null,
             "id": 618058471,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2024-09-18T17:46:55Z",
+            "open_issues": 594,
             "owner": "facebookresearch",
             "repo": "segment-anything",
-            "stars": 54771
+            "stars": 54772,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:32:03.559Z"
         },
@@ -1620,12 +2391,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenMMLab Semantic Segmentation Toolbox and Benchmark.",
+            "homepage": "https://mmsegmentation.readthedocs.io/en/main/",
             "id": 272133018,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-08-13T08:53:34Z",
+            "open_issues": 869,
             "owner": "open-mmlab",
             "repo": "mmsegmentation",
-            "stars": 9933
+            "stars": 9934,
+            "topics": [
+              "deeplabv3",
+              "image-segmentation",
+              "medical-image-segmentation",
+              "pspnet",
+              "pytorch",
+              "realtime-segmentation",
+              "retinal-vessel-segmentation",
+              "semantic-segmentation",
+              "swin-transformer",
+              "transformer",
+              "vessel-segmentation"
+            ]
           },
           "first_seen": "2026-08-28T21:32:03.559Z"
         },
@@ -1636,12 +2424,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenMMLab Pre-training Toolbox and Benchmark",
+            "homepage": "https://mmpretrain.readthedocs.io/en/latest/",
             "id": 278415292,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-11-01T06:27:36Z",
+            "open_issues": 273,
             "owner": "open-mmlab",
             "repo": "mmpretrain",
-            "stars": 3851
+            "stars": 3851,
+            "topics": [
+              "beit",
+              "clip",
+              "constrastive-learning",
+              "convnext",
+              "deep-learning",
+              "image-classification",
+              "mae",
+              "masked-image-modeling",
+              "mobilenet",
+              "moco",
+              "multimodal",
+              "pretrained-models",
+              "pytorch",
+              "resnet",
+              "self-supervised-learning",
+              "swin-transformer",
+              "vision-transformer"
+            ]
           },
           "first_seen": "2026-08-28T21:32:03.559Z"
         }
@@ -1650,15 +2461,20 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:32:03.559Z",
+    "last_updated": "2026-08-29T04:27:30.752Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Collection of awesome medical dataset resources.",
+      "homepage": null,
       "id": 745555192,
       "language": null,
+      "license": null,
       "last_commit": "2025-01-23T03:32:22Z",
+      "open_issues": 12,
       "owner": "openmedlab",
       "repo": "Awesome-Medical-Dataset",
-      "stars": 2098
+      "stars": 2098,
+      "topics": []
     },
     "original_repository_sha": "507ef7645e6abd254995aa72deb9a04393a11a98",
     "enhanced_repository": "enhansome/enhansome-Awesome-Medical-Dataset",
