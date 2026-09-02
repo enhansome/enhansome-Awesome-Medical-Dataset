@@ -44,7 +44,7 @@
                     "open_issues": 70,
                     "owner": "wasserth",
                     "repo": "TotalSegmentator",
-                    "stars": 2960,
+                    "stars": 2962,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:32:03.559Z"
@@ -65,7 +65,7 @@
                     "open_issues": 70,
                     "owner": "wasserth",
                     "repo": "TotalSegmentator",
-                    "stars": 2960,
+                    "stars": 2962,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:32:03.559Z"
@@ -107,7 +107,7 @@
                     "open_issues": 70,
                     "owner": "wasserth",
                     "repo": "TotalSegmentator",
-                    "stars": 2960,
+                    "stars": 2962,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:32:03.559Z"
@@ -156,7 +156,7 @@
                     "open_issues": 9,
                     "owner": "haifangong",
                     "repo": "TRFE-Net-for-thyroid-nodule-segmentation",
-                    "stars": 137,
+                    "stars": 138,
                     "topics": [
                       "semantic-segmentation"
                     ]
@@ -179,7 +179,7 @@
                     "open_issues": 9,
                     "owner": "haifangong",
                     "repo": "TRFE-Net-for-thyroid-nodule-segmentation",
-                    "stars": 137,
+                    "stars": 138,
                     "topics": [
                       "semantic-segmentation"
                     ]
@@ -458,7 +458,7 @@
                     "open_issues": 1,
                     "owner": "MIRACLE-Center",
                     "repo": "CTSpine1K",
-                    "stars": 202,
+                    "stars": 203,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:32:03.559Z"
@@ -971,7 +971,7 @@
                     "open_issues": 2,
                     "owner": "DeepMicroscopy",
                     "repo": "MIDOGpp",
-                    "stars": 27,
+                    "stars": 28,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:32:03.559Z"
@@ -1067,7 +1067,7 @@
                 "open_issues": 24,
                 "owner": "mahmoodlab",
                 "repo": "HEST",
-                "stars": 434,
+                "stars": 436,
                 "topics": [
                   "computational-pathology",
                   "histology",
@@ -1508,7 +1508,7 @@
             "open_issues": 65,
             "owner": "kakoni",
             "repo": "awesome-healthcare",
-            "stars": 3957,
+            "stars": 3959,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1534,7 +1534,7 @@
             "open_issues": 2,
             "owner": "GanjinZero",
             "repo": "awesome_Chinese_medical_NLP",
-            "stars": 2626,
+            "stars": 2627,
             "topics": [
               "dataset",
               "dictionary",
@@ -1596,7 +1596,7 @@
             "open_issues": 2,
             "owner": "amirhossein-kz",
             "repo": "Awesome-Diffusion-Models-in-Medical-Imaging",
-            "stars": 2109,
+            "stars": 2110,
             "topics": [
               "ddpm",
               "deep-learning",
@@ -1659,7 +1659,7 @@
             "open_issues": 2,
             "owner": "fahadshamshad",
             "repo": "awesome-transformers-in-medical-imaging",
-            "stars": 1296,
+            "stars": 1297,
             "topics": [
               "awesome-list",
               "brain-tumor-segmentation",
@@ -1698,7 +1698,7 @@
             "open_issues": 2,
             "owner": "richard-peng-xia",
             "repo": "awesome-multimodal-in-medical-imaging",
-            "stars": 974,
+            "stars": 975,
             "topics": [
               "large-language-models",
               "large-multimodal-models",
@@ -1936,7 +1936,7 @@
                 "open_issues": 87,
                 "owner": "MIC-DKFZ",
                 "repo": "nnUNet",
-                "stars": 8843,
+                "stars": 8846,
                 "topics": [
                   "segmentation"
                 ]
@@ -1959,7 +1959,7 @@
                 "open_issues": 16,
                 "owner": "MIC-DKFZ",
                 "repo": "MedNeXt",
-                "stars": 528,
+                "stars": 529,
                 "topics": [
                   "convnext",
                   "ct-segmentation",
@@ -2327,7 +2327,7 @@
             "open_issues": 87,
             "owner": "MIC-DKFZ",
             "repo": "nnUNet",
-            "stars": 8843,
+            "stars": 8846,
             "topics": [
               "segmentation"
             ]
@@ -2346,11 +2346,11 @@
             "id": 214485001,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-01T14:50:22Z",
-            "open_issues": 530,
+            "last_commit": "2026-09-01T15:47:09Z",
+            "open_issues": 526,
             "owner": "Project-MONAI",
             "repo": "MONAI",
-            "stars": 8646,
+            "stars": 8649,
             "topics": [
               "deep-learning",
               "healthcare-imaging",
@@ -2379,7 +2379,7 @@
             "open_issues": 594,
             "owner": "facebookresearch",
             "repo": "segment-anything",
-            "stars": 54780,
+            "stars": 54788,
             "topics": []
           },
           "first_seen": "2026-08-28T21:32:03.559Z"
@@ -2400,7 +2400,7 @@
             "open_issues": 869,
             "owner": "open-mmlab",
             "repo": "mmsegmentation",
-            "stars": 9937,
+            "stars": 9939,
             "topics": [
               "deeplabv3",
               "image-segmentation",
@@ -2461,7 +2461,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T15:34:24.087Z",
+    "last_updated": "2026-09-02T15:21:30.441Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of awesome medical dataset resources.",
@@ -2473,7 +2473,7 @@
       "open_issues": 12,
       "owner": "openmedlab",
       "repo": "Awesome-Medical-Dataset",
-      "stars": 2103,
+      "stars": 2105,
       "topics": []
     },
     "original_repository_sha": "507ef7645e6abd254995aa72deb9a04393a11a98",
