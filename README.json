@@ -41,10 +41,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-04T21:39:21Z",
-                    "open_issues": 70,
+                    "open_issues": 71,
                     "owner": "wasserth",
                     "repo": "TotalSegmentator",
-                    "stars": 2969,
+                    "stars": 2970,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:32:03.559Z"
@@ -62,10 +62,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-04T21:39:21Z",
-                    "open_issues": 70,
+                    "open_issues": 71,
                     "owner": "wasserth",
                     "repo": "TotalSegmentator",
-                    "stars": 2969,
+                    "stars": 2970,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:32:03.559Z"
@@ -104,10 +104,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-04T21:39:21Z",
-                    "open_issues": 70,
+                    "open_issues": 71,
                     "owner": "wasserth",
                     "repo": "TotalSegmentator",
-                    "stars": 2969,
+                    "stars": 2970,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:32:03.559Z"
@@ -865,7 +865,7 @@
                     "open_issues": 1,
                     "owner": "mattgroh",
                     "repo": "fitzpatrick17k",
-                    "stars": 149,
+                    "stars": 148,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:32:03.559Z"
@@ -1434,7 +1434,7 @@
                 "open_issues": 3,
                 "owner": "alipay",
                 "repo": "RJU_Ant_QA",
-                "stars": 62,
+                "stars": 63,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:32:03.559Z"
@@ -1508,7 +1508,7 @@
             "open_issues": 65,
             "owner": "kakoni",
             "repo": "awesome-healthcare",
-            "stars": 3961,
+            "stars": 3962,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1534,7 +1534,7 @@
             "open_issues": 2,
             "owner": "GanjinZero",
             "repo": "awesome_Chinese_medical_NLP",
-            "stars": 2630,
+            "stars": 2631,
             "topics": [
               "dataset",
               "dictionary",
@@ -1563,7 +1563,7 @@
             "open_issues": 2,
             "owner": "xinario",
             "repo": "awesome-gan-for-medical-imaging",
-            "stars": 2362,
+            "stars": 2361,
             "topics": [
               "ct-denoising",
               "deeplearning",
@@ -1634,7 +1634,7 @@
             "open_issues": 2,
             "owner": "JunMa11",
             "repo": "SOTA-MedSeg",
-            "stars": 1677,
+            "stars": 1678,
             "topics": [
               "image",
               "medical",
@@ -1936,7 +1936,7 @@
                 "open_issues": 87,
                 "owner": "MIC-DKFZ",
                 "repo": "nnUNet",
-                "stars": 8853,
+                "stars": 8855,
                 "topics": [
                   "segmentation"
                 ]
@@ -2327,7 +2327,7 @@
             "open_issues": 87,
             "owner": "MIC-DKFZ",
             "repo": "nnUNet",
-            "stars": 8853,
+            "stars": 8855,
             "topics": [
               "segmentation"
             ]
@@ -2347,10 +2347,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-04T17:22:49Z",
-            "open_issues": 537,
+            "open_issues": 538,
             "owner": "Project-MONAI",
             "repo": "MONAI",
-            "stars": 8653,
+            "stars": 8654,
             "topics": [
               "deep-learning",
               "healthcare-imaging",
@@ -2379,7 +2379,7 @@
             "open_issues": 594,
             "owner": "facebookresearch",
             "repo": "segment-anything",
-            "stars": 54797,
+            "stars": 54808,
             "topics": []
           },
           "first_seen": "2026-08-28T21:32:03.559Z"
@@ -2461,7 +2461,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T14:01:31.429Z",
+    "last_updated": "2026-09-06T14:26:07.603Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of awesome medical dataset resources.",
