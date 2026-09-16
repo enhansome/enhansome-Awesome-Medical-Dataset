@@ -40,11 +40,11 @@
                     "id": 449681070,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-15T11:31:53Z",
+                    "last_commit": "2026-09-16T14:08:57Z",
                     "open_issues": 71,
                     "owner": "wasserth",
                     "repo": "TotalSegmentator",
-                    "stars": 2989,
+                    "stars": 2992,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:32:03.559Z"
@@ -61,11 +61,11 @@
                     "id": 449681070,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-15T11:31:53Z",
+                    "last_commit": "2026-09-16T14:08:57Z",
                     "open_issues": 71,
                     "owner": "wasserth",
                     "repo": "TotalSegmentator",
-                    "stars": 2989,
+                    "stars": 2992,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:32:03.559Z"
@@ -103,11 +103,11 @@
                     "id": 449681070,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-15T11:31:53Z",
+                    "last_commit": "2026-09-16T14:08:57Z",
                     "open_issues": 71,
                     "owner": "wasserth",
                     "repo": "TotalSegmentator",
-                    "stars": 2989,
+                    "stars": 2992,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:32:03.559Z"
@@ -561,7 +561,7 @@
                     "open_issues": 14,
                     "owner": "CapsuleEndoscope",
                     "repo": "EndoSLAM",
-                    "stars": 309,
+                    "stars": 308,
                     "topics": [
                       "capsule-endoscopy",
                       "monocular-depth-estimation",
@@ -1067,7 +1067,7 @@
                 "open_issues": 26,
                 "owner": "mahmoodlab",
                 "repo": "HEST",
-                "stars": 436,
+                "stars": 437,
                 "topics": [
                   "computational-pathology",
                   "histology",
@@ -1298,7 +1298,7 @@
                 "open_issues": 14,
                 "owner": "jind11",
                 "repo": "MedQA",
-                "stars": 396,
+                "stars": 398,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:32:03.559Z"
@@ -1487,7 +1487,7 @@
             "open_issues": 3,
             "owner": "JunMa11",
             "repo": "SegLossOdyssey",
-            "stars": 4005,
+            "stars": 4004,
             "topics": []
           },
           "first_seen": "2026-08-28T21:32:03.559Z"
@@ -1508,7 +1508,7 @@
             "open_issues": 69,
             "owner": "kakoni",
             "repo": "awesome-healthcare",
-            "stars": 3971,
+            "stars": 3976,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1534,7 +1534,7 @@
             "open_issues": 2,
             "owner": "GanjinZero",
             "repo": "awesome_Chinese_medical_NLP",
-            "stars": 2636,
+            "stars": 2637,
             "topics": [
               "dataset",
               "dictionary",
@@ -1698,7 +1698,7 @@
             "open_issues": 2,
             "owner": "richard-peng-xia",
             "repo": "awesome-multimodal-in-medical-imaging",
-            "stars": 976,
+            "stars": 977,
             "topics": [
               "large-language-models",
               "large-multimodal-models",
@@ -1933,10 +1933,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-14T10:06:32Z",
-                "open_issues": 93,
+                "open_issues": 94,
                 "owner": "MIC-DKFZ",
                 "repo": "nnUNet",
-                "stars": 8883,
+                "stars": 8884,
                 "topics": [
                   "segmentation"
                 ]
@@ -2324,10 +2324,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-14T10:06:32Z",
-            "open_issues": 93,
+            "open_issues": 94,
             "owner": "MIC-DKFZ",
             "repo": "nnUNet",
-            "stars": 8883,
+            "stars": 8884,
             "topics": [
               "segmentation"
             ]
@@ -2346,11 +2346,11 @@
             "id": 214485001,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-14T16:31:50Z",
-            "open_issues": 521,
+            "last_commit": "2026-09-16T11:33:28Z",
+            "open_issues": 519,
             "owner": "Project-MONAI",
             "repo": "MONAI",
-            "stars": 8686,
+            "stars": 8687,
             "topics": [
               "deep-learning",
               "healthcare-imaging",
@@ -2379,7 +2379,7 @@
             "open_issues": 594,
             "owner": "facebookresearch",
             "repo": "segment-anything",
-            "stars": 54864,
+            "stars": 54868,
             "topics": []
           },
           "first_seen": "2026-08-28T21:32:03.559Z"
@@ -2400,7 +2400,7 @@
             "open_issues": 870,
             "owner": "open-mmlab",
             "repo": "mmsegmentation",
-            "stars": 9950,
+            "stars": 9949,
             "topics": [
               "deeplabv3",
               "image-segmentation",
@@ -2433,7 +2433,7 @@
             "open_issues": 273,
             "owner": "open-mmlab",
             "repo": "mmpretrain",
-            "stars": 3854,
+            "stars": 3855,
             "topics": [
               "beit",
               "clip",
@@ -2461,7 +2461,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T15:43:30.269Z",
+    "last_updated": "2026-09-16T15:35:03.318Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of awesome medical dataset resources.",
@@ -2473,7 +2473,7 @@
       "open_issues": 13,
       "owner": "openmedlab",
       "repo": "Awesome-Medical-Dataset",
-      "stars": 2128,
+      "stars": 2129,
       "topics": []
     },
     "original_repository_sha": "507ef7645e6abd254995aa72deb9a04393a11a98",
