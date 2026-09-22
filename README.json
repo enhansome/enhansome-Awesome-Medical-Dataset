@@ -41,10 +41,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-16T14:08:57Z",
-                    "open_issues": 75,
+                    "open_issues": 77,
                     "owner": "wasserth",
                     "repo": "TotalSegmentator",
-                    "stars": 3012,
+                    "stars": 3013,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:32:03.559Z"
@@ -62,10 +62,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-16T14:08:57Z",
-                    "open_issues": 75,
+                    "open_issues": 77,
                     "owner": "wasserth",
                     "repo": "TotalSegmentator",
-                    "stars": 3012,
+                    "stars": 3013,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:32:03.559Z"
@@ -104,10 +104,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-16T14:08:57Z",
-                    "open_issues": 75,
+                    "open_issues": 77,
                     "owner": "wasserth",
                     "repo": "TotalSegmentator",
-                    "stars": 3012,
+                    "stars": 3013,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:32:03.559Z"
@@ -1407,7 +1407,7 @@
                 "open_issues": 13,
                 "owner": "cpystan",
                 "repo": "Wsi-Caption",
-                "stars": 87,
+                "stars": 88,
                 "topics": [
                   "aigc",
                   "pathology",
@@ -1505,10 +1505,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-05-05T10:41:03Z",
-            "open_issues": 72,
+            "open_issues": 73,
             "owner": "kakoni",
             "repo": "awesome-healthcare",
-            "stars": 3984,
+            "stars": 3985,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1634,7 +1634,7 @@
             "open_issues": 2,
             "owner": "JunMa11",
             "repo": "SOTA-MedSeg",
-            "stars": 1676,
+            "stars": 1677,
             "topics": [
               "image",
               "medical",
@@ -1698,7 +1698,7 @@
             "open_issues": 2,
             "owner": "richard-peng-xia",
             "repo": "awesome-multimodal-in-medical-imaging",
-            "stars": 979,
+            "stars": 978,
             "topics": [
               "large-language-models",
               "large-multimodal-models",
@@ -1932,11 +1932,11 @@
                 "id": 181846371,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-14T10:06:32Z",
+                "last_commit": "2026-09-22T07:06:25Z",
                 "open_issues": 94,
                 "owner": "MIC-DKFZ",
                 "repo": "nnUNet",
-                "stars": 8902,
+                "stars": 8904,
                 "topics": [
                   "segmentation"
                 ]
@@ -2037,7 +2037,7 @@
                 "open_issues": 128,
                 "owner": "Project-MONAI",
                 "repo": "tutorials",
-                "stars": 2551,
+                "stars": 2552,
                 "topics": [
                   "jupyter-notebook",
                   "monai",
@@ -2064,7 +2064,7 @@
                 "open_issues": 128,
                 "owner": "Project-MONAI",
                 "repo": "tutorials",
-                "stars": 2551,
+                "stars": 2552,
                 "topics": [
                   "jupyter-notebook",
                   "monai",
@@ -2263,7 +2263,7 @@
                 "open_issues": 128,
                 "owner": "Project-MONAI",
                 "repo": "tutorials",
-                "stars": 2551,
+                "stars": 2552,
                 "topics": [
                   "jupyter-notebook",
                   "monai",
@@ -2323,11 +2323,11 @@
             "id": 181846371,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-14T10:06:32Z",
+            "last_commit": "2026-09-22T07:06:25Z",
             "open_issues": 94,
             "owner": "MIC-DKFZ",
             "repo": "nnUNet",
-            "stars": 8902,
+            "stars": 8904,
             "topics": [
               "segmentation"
             ]
@@ -2347,10 +2347,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-21T16:30:37Z",
-            "open_issues": 518,
+            "open_issues": 519,
             "owner": "Project-MONAI",
             "repo": "MONAI",
-            "stars": 8701,
+            "stars": 8703,
             "topics": [
               "deep-learning",
               "healthcare-imaging",
@@ -2379,7 +2379,7 @@
             "open_issues": 595,
             "owner": "facebookresearch",
             "repo": "segment-anything",
-            "stars": 54901,
+            "stars": 54910,
             "topics": []
           },
           "first_seen": "2026-08-28T21:32:03.559Z"
@@ -2400,7 +2400,7 @@
             "open_issues": 870,
             "owner": "open-mmlab",
             "repo": "mmsegmentation",
-            "stars": 9954,
+            "stars": 9955,
             "topics": [
               "deeplabv3",
               "image-segmentation",
@@ -2461,7 +2461,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T17:12:55.990Z",
+    "last_updated": "2026-09-22T15:45:11.262Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of awesome medical dataset resources.",
