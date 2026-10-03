@@ -41,10 +41,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-10-02T14:07:48Z",
-                    "open_issues": 72,
+                    "open_issues": 73,
                     "owner": "wasserth",
                     "repo": "TotalSegmentator",
-                    "stars": 3032,
+                    "stars": 3033,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:32:03.559Z"
@@ -62,10 +62,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-10-02T14:07:48Z",
-                    "open_issues": 72,
+                    "open_issues": 73,
                     "owner": "wasserth",
                     "repo": "TotalSegmentator",
-                    "stars": 3032,
+                    "stars": 3033,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:32:03.559Z"
@@ -104,10 +104,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-10-02T14:07:48Z",
-                    "open_issues": 72,
+                    "open_issues": 73,
                     "owner": "wasserth",
                     "repo": "TotalSegmentator",
-                    "stars": 3032,
+                    "stars": 3033,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:32:03.559Z"
@@ -2350,7 +2350,7 @@
             "open_issues": 525,
             "owner": "Project-MONAI",
             "repo": "MONAI",
-            "stars": 8747,
+            "stars": 8748,
             "topics": [
               "deep-learning",
               "healthcare-imaging",
@@ -2379,7 +2379,7 @@
             "open_issues": 595,
             "owner": "facebookresearch",
             "repo": "segment-anything",
-            "stars": 54961,
+            "stars": 54963,
             "topics": []
           },
           "first_seen": "2026-08-28T21:32:03.559Z"
@@ -2461,7 +2461,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:28:00.753Z",
+    "last_updated": "2026-10-03T15:15:07.396Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of awesome medical dataset resources.",
