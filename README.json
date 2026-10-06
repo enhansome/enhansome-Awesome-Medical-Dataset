@@ -40,11 +40,11 @@
                     "id": 449681070,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-05T11:22:27Z",
-                    "open_issues": 75,
+                    "last_commit": "2026-10-06T11:38:07Z",
+                    "open_issues": 73,
                     "owner": "wasserth",
                     "repo": "TotalSegmentator",
-                    "stars": 3038,
+                    "stars": 3039,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:32:03.559Z"
@@ -61,11 +61,11 @@
                     "id": 449681070,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-05T11:22:27Z",
-                    "open_issues": 75,
+                    "last_commit": "2026-10-06T11:38:07Z",
+                    "open_issues": 73,
                     "owner": "wasserth",
                     "repo": "TotalSegmentator",
-                    "stars": 3038,
+                    "stars": 3039,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:32:03.559Z"
@@ -103,11 +103,11 @@
                     "id": 449681070,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-05T11:22:27Z",
-                    "open_issues": 75,
+                    "last_commit": "2026-10-06T11:38:07Z",
+                    "open_issues": 73,
                     "owner": "wasserth",
                     "repo": "TotalSegmentator",
-                    "stars": 3038,
+                    "stars": 3039,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:32:03.559Z"
@@ -1634,7 +1634,7 @@
             "open_issues": 2,
             "owner": "JunMa11",
             "repo": "SOTA-MedSeg",
-            "stars": 1678,
+            "stars": 1677,
             "topics": [
               "image",
               "medical",
@@ -1932,7 +1932,7 @@
                 "id": 181846371,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-29T13:05:21Z",
+                "last_commit": "2026-10-06T14:26:05Z",
                 "open_issues": 99,
                 "owner": "MIC-DKFZ",
                 "repo": "nnUNet",
@@ -2037,7 +2037,7 @@
                 "open_issues": 128,
                 "owner": "Project-MONAI",
                 "repo": "tutorials",
-                "stars": 2560,
+                "stars": 2561,
                 "topics": [
                   "jupyter-notebook",
                   "monai",
@@ -2064,7 +2064,7 @@
                 "open_issues": 128,
                 "owner": "Project-MONAI",
                 "repo": "tutorials",
-                "stars": 2560,
+                "stars": 2561,
                 "topics": [
                   "jupyter-notebook",
                   "monai",
@@ -2263,7 +2263,7 @@
                 "open_issues": 128,
                 "owner": "Project-MONAI",
                 "repo": "tutorials",
-                "stars": 2560,
+                "stars": 2561,
                 "topics": [
                   "jupyter-notebook",
                   "monai",
@@ -2323,7 +2323,7 @@
             "id": 181846371,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-29T13:05:21Z",
+            "last_commit": "2026-10-06T14:26:05Z",
             "open_issues": 99,
             "owner": "MIC-DKFZ",
             "repo": "nnUNet",
@@ -2346,8 +2346,8 @@
             "id": 214485001,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T00:38:57Z",
-            "open_issues": 511,
+            "last_commit": "2026-10-06T17:10:50Z",
+            "open_issues": 508,
             "owner": "Project-MONAI",
             "repo": "MONAI",
             "stars": 8755,
@@ -2379,7 +2379,7 @@
             "open_issues": 595,
             "owner": "facebookresearch",
             "repo": "segment-anything",
-            "stars": 54964,
+            "stars": 54966,
             "topics": []
           },
           "first_seen": "2026-08-28T21:32:03.559Z"
@@ -2461,7 +2461,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:34:46.669Z",
+    "last_updated": "2026-10-06T17:26:03.876Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of awesome medical dataset resources.",
