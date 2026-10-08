@@ -41,10 +41,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-10-06T11:38:07Z",
-                    "open_issues": 73,
+                    "open_issues": 76,
                     "owner": "wasserth",
                     "repo": "TotalSegmentator",
-                    "stars": 3042,
+                    "stars": 3044,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:32:03.559Z"
@@ -62,10 +62,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-10-06T11:38:07Z",
-                    "open_issues": 73,
+                    "open_issues": 76,
                     "owner": "wasserth",
                     "repo": "TotalSegmentator",
-                    "stars": 3042,
+                    "stars": 3044,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:32:03.559Z"
@@ -104,10 +104,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-10-06T11:38:07Z",
-                    "open_issues": 73,
+                    "open_issues": 76,
                     "owner": "wasserth",
                     "repo": "TotalSegmentator",
-                    "stars": 3042,
+                    "stars": 3044,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:32:03.559Z"
@@ -1473,6 +1473,32 @@
       "items": [
         {
           "node_type": "item",
+          "title": "awesome-healthcare",
+          "description": "Curated list of awesome open source healthcare software, libraries, tools and resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Curated list of awesome open source healthcare software, libraries, tools and resources.",
+            "homepage": null,
+            "id": 52342167,
+            "language": null,
+            "license": "CC0-1.0",
+            "last_commit": "2026-05-05T10:41:03Z",
+            "open_issues": 73,
+            "owner": "kakoni",
+            "repo": "awesome-healthcare",
+            "stars": 4004,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "health",
+              "list"
+            ]
+          },
+          "first_seen": "2026-08-28T21:32:03.559Z"
+        },
+        {
+          "node_type": "item",
           "title": "SegLossOdyssey",
           "description": "A collection of loss functions for medical image segmentation.",
           "children": [],
@@ -1494,32 +1520,6 @@
         },
         {
           "node_type": "item",
-          "title": "awesome-healthcare",
-          "description": "Curated list of awesome open source healthcare software, libraries, tools and resources.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Curated list of awesome open source healthcare software, libraries, tools and resources.",
-            "homepage": null,
-            "id": 52342167,
-            "language": null,
-            "license": "CC0-1.0",
-            "last_commit": "2026-05-05T10:41:03Z",
-            "open_issues": 72,
-            "owner": "kakoni",
-            "repo": "awesome-healthcare",
-            "stars": 4003,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "health",
-              "list"
-            ]
-          },
-          "first_seen": "2026-08-28T21:32:03.559Z"
-        },
-        {
-          "node_type": "item",
           "title": "awesome_Chinese_medical_NLP",
           "description": "中文医学NLP公开资源整理：术语集/语料库/词向量/预训练模型/知识图谱/命名实体识别/QA/信息抽取/模型/论文/etc.",
           "children": [],
@@ -1534,7 +1534,7 @@
             "open_issues": 2,
             "owner": "GanjinZero",
             "repo": "awesome_Chinese_medical_NLP",
-            "stars": 2644,
+            "stars": 2645,
             "topics": [
               "dataset",
               "dictionary",
@@ -1698,7 +1698,7 @@
             "open_issues": 2,
             "owner": "richard-peng-xia",
             "repo": "awesome-multimodal-in-medical-imaging",
-            "stars": 983,
+            "stars": 982,
             "topics": [
               "large-language-models",
               "large-multimodal-models",
@@ -1932,11 +1932,11 @@
                 "id": 181846371,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-06T14:26:05Z",
-                "open_issues": 99,
+                "last_commit": "2026-10-08T09:28:25Z",
+                "open_issues": 97,
                 "owner": "MIC-DKFZ",
                 "repo": "nnUNet",
-                "stars": 8936,
+                "stars": 8938,
                 "topics": [
                   "segmentation"
                 ]
@@ -2034,10 +2034,10 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-27T17:24:00Z",
-                "open_issues": 128,
+                "open_issues": 129,
                 "owner": "Project-MONAI",
                 "repo": "tutorials",
-                "stars": 2561,
+                "stars": 2562,
                 "topics": [
                   "jupyter-notebook",
                   "monai",
@@ -2061,10 +2061,10 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-27T17:24:00Z",
-                "open_issues": 128,
+                "open_issues": 129,
                 "owner": "Project-MONAI",
                 "repo": "tutorials",
-                "stars": 2561,
+                "stars": 2562,
                 "topics": [
                   "jupyter-notebook",
                   "monai",
@@ -2260,10 +2260,10 @@
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-27T17:24:00Z",
-                "open_issues": 128,
+                "open_issues": 129,
                 "owner": "Project-MONAI",
                 "repo": "tutorials",
-                "stars": 2561,
+                "stars": 2562,
                 "topics": [
                   "jupyter-notebook",
                   "monai",
@@ -2323,11 +2323,11 @@
             "id": 181846371,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T14:26:05Z",
-            "open_issues": 99,
+            "last_commit": "2026-10-08T09:28:25Z",
+            "open_issues": 97,
             "owner": "MIC-DKFZ",
             "repo": "nnUNet",
-            "stars": 8936,
+            "stars": 8938,
             "topics": [
               "segmentation"
             ]
@@ -2346,7 +2346,7 @@
             "id": 214485001,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-07T15:48:48Z",
+            "last_commit": "2026-10-08T16:53:38Z",
             "open_issues": 506,
             "owner": "Project-MONAI",
             "repo": "MONAI",
@@ -2379,7 +2379,7 @@
             "open_issues": 595,
             "owner": "facebookresearch",
             "repo": "segment-anything",
-            "stars": 54965,
+            "stars": 54973,
             "topics": []
           },
           "first_seen": "2026-08-28T21:32:03.559Z"
@@ -2461,7 +2461,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T17:58:32.946Z",
+    "last_updated": "2026-10-08T18:00:59.217Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of awesome medical dataset resources.",
@@ -2473,7 +2473,7 @@
       "open_issues": 65,
       "owner": "openmedlab",
       "repo": "Awesome-Medical-Dataset",
-      "stars": 2166,
+      "stars": 2169,
       "topics": []
     },
     "original_repository_sha": "507ef7645e6abd254995aa72deb9a04393a11a98",
