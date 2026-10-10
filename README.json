@@ -41,10 +41,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-10-06T11:38:07Z",
-                    "open_issues": 77,
+                    "open_issues": 78,
                     "owner": "wasserth",
                     "repo": "TotalSegmentator",
-                    "stars": 3047,
+                    "stars": 3053,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:32:03.559Z"
@@ -62,10 +62,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-10-06T11:38:07Z",
-                    "open_issues": 77,
+                    "open_issues": 78,
                     "owner": "wasserth",
                     "repo": "TotalSegmentator",
-                    "stars": 3047,
+                    "stars": 3053,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:32:03.559Z"
@@ -104,10 +104,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-10-06T11:38:07Z",
-                    "open_issues": 77,
+                    "open_issues": 78,
                     "owner": "wasserth",
                     "repo": "TotalSegmentator",
-                    "stars": 3047,
+                    "stars": 3053,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:32:03.559Z"
@@ -156,7 +156,7 @@
                     "open_issues": 9,
                     "owner": "haifangong",
                     "repo": "TRFE-Net-for-thyroid-nodule-segmentation",
-                    "stars": 138,
+                    "stars": 139,
                     "topics": [
                       "semantic-segmentation"
                     ]
@@ -179,7 +179,7 @@
                     "open_issues": 9,
                     "owner": "haifangong",
                     "repo": "TRFE-Net-for-thyroid-nodule-segmentation",
-                    "stars": 138,
+                    "stars": 139,
                     "topics": [
                       "semantic-segmentation"
                     ]
@@ -511,7 +511,7 @@
                     "open_issues": 1,
                     "owner": "DebeshJha",
                     "repo": "2020-MediaEval-Medico-polyp-segmentation",
-                    "stars": 12,
+                    "stars": 13,
                     "topics": [
                       "algorithm-efficiency-task",
                       "colon-cancer",
@@ -865,7 +865,7 @@
                     "open_issues": 1,
                     "owner": "mattgroh",
                     "repo": "fitzpatrick17k",
-                    "stars": 152,
+                    "stars": 153,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:32:03.559Z"
@@ -1487,7 +1487,7 @@
             "open_issues": 73,
             "owner": "kakoni",
             "repo": "awesome-healthcare",
-            "stars": 4006,
+            "stars": 4007,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1513,7 +1513,7 @@
             "open_issues": 3,
             "owner": "JunMa11",
             "repo": "SegLossOdyssey",
-            "stars": 4003,
+            "stars": 4002,
             "topics": []
           },
           "first_seen": "2026-08-28T21:32:03.559Z"
@@ -1534,7 +1534,7 @@
             "open_issues": 2,
             "owner": "GanjinZero",
             "repo": "awesome_Chinese_medical_NLP",
-            "stars": 2647,
+            "stars": 2648,
             "topics": [
               "dataset",
               "dictionary",
@@ -1596,7 +1596,7 @@
             "open_issues": 2,
             "owner": "amirhossein-kz",
             "repo": "Awesome-Diffusion-Models-in-Medical-Imaging",
-            "stars": 2112,
+            "stars": 2113,
             "topics": [
               "ddpm",
               "deep-learning",
@@ -1634,7 +1634,7 @@
             "open_issues": 3,
             "owner": "JunMa11",
             "repo": "SOTA-MedSeg",
-            "stars": 1678,
+            "stars": 1679,
             "topics": [
               "image",
               "medical",
@@ -1936,7 +1936,7 @@
                 "open_issues": 96,
                 "owner": "MIC-DKFZ",
                 "repo": "nnUNet",
-                "stars": 8940,
+                "stars": 8943,
                 "topics": [
                   "segmentation"
                 ]
@@ -2037,7 +2037,7 @@
                 "open_issues": 129,
                 "owner": "Project-MONAI",
                 "repo": "tutorials",
-                "stars": 2563,
+                "stars": 2566,
                 "topics": [
                   "jupyter-notebook",
                   "monai",
@@ -2064,7 +2064,7 @@
                 "open_issues": 129,
                 "owner": "Project-MONAI",
                 "repo": "tutorials",
-                "stars": 2563,
+                "stars": 2566,
                 "topics": [
                   "jupyter-notebook",
                   "monai",
@@ -2263,7 +2263,7 @@
                 "open_issues": 129,
                 "owner": "Project-MONAI",
                 "repo": "tutorials",
-                "stars": 2563,
+                "stars": 2566,
                 "topics": [
                   "jupyter-notebook",
                   "monai",
@@ -2327,7 +2327,7 @@
             "open_issues": 96,
             "owner": "MIC-DKFZ",
             "repo": "nnUNet",
-            "stars": 8940,
+            "stars": 8943,
             "topics": [
               "segmentation"
             ]
@@ -2346,11 +2346,11 @@
             "id": 214485001,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-08T16:53:38Z",
-            "open_issues": 511,
+            "last_commit": "2026-10-09T19:57:13Z",
+            "open_issues": 509,
             "owner": "Project-MONAI",
             "repo": "MONAI",
-            "stars": 8761,
+            "stars": 8762,
             "topics": [
               "deep-learning",
               "healthcare-imaging",
@@ -2379,7 +2379,7 @@
             "open_issues": 595,
             "owner": "facebookresearch",
             "repo": "segment-anything",
-            "stars": 54978,
+            "stars": 54982,
             "topics": []
           },
           "first_seen": "2026-08-28T21:32:03.559Z"
@@ -2400,7 +2400,7 @@
             "open_issues": 870,
             "owner": "open-mmlab",
             "repo": "mmsegmentation",
-            "stars": 9966,
+            "stars": 9967,
             "topics": [
               "deeplabv3",
               "image-segmentation",
@@ -2461,7 +2461,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T17:33:53.464Z",
+    "last_updated": "2026-10-10T16:23:43.245Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of awesome medical dataset resources.",
@@ -2473,7 +2473,7 @@
       "open_issues": 65,
       "owner": "openmedlab",
       "repo": "Awesome-Medical-Dataset",
-      "stars": 2170,
+      "stars": 2172,
       "topics": []
     },
     "original_repository_sha": "507ef7645e6abd254995aa72deb9a04393a11a98",
