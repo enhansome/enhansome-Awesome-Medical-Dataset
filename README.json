@@ -41,10 +41,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-10-22T13:19:50Z",
-                    "open_issues": 89,
+                    "open_issues": 88,
                     "owner": "wasserth",
                     "repo": "TotalSegmentator",
-                    "stars": 3100,
+                    "stars": 3102,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:32:03.559Z"
@@ -62,10 +62,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-10-22T13:19:50Z",
-                    "open_issues": 89,
+                    "open_issues": 88,
                     "owner": "wasserth",
                     "repo": "TotalSegmentator",
-                    "stars": 3100,
+                    "stars": 3102,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:32:03.559Z"
@@ -104,10 +104,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-10-22T13:19:50Z",
-                    "open_issues": 89,
+                    "open_issues": 88,
                     "owner": "wasserth",
                     "repo": "TotalSegmentator",
-                    "stars": 3100,
+                    "stars": 3102,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:32:03.559Z"
@@ -388,7 +388,7 @@
                     "open_issues": 6,
                     "owner": "xmed-lab",
                     "repo": "GraphEcho",
-                    "stars": 64,
+                    "stars": 65,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:32:03.559Z"
@@ -774,7 +774,7 @@
                     "open_issues": 0,
                     "owner": "mirtanvirislam",
                     "repo": "Deep-Learning-Based-Glaucoma-Detection-with-Cropped-Optic-Cup-and-Disc-and-Blood-Vessel-Segmentation",
-                    "stars": 10,
+                    "stars": 11,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:32:03.559Z"
@@ -1534,7 +1534,7 @@
             "open_issues": 2,
             "owner": "GanjinZero",
             "repo": "awesome_Chinese_medical_NLP",
-            "stars": 2654,
+            "stars": 2655,
             "topics": [
               "dataset",
               "dictionary",
@@ -1936,7 +1936,7 @@
                 "open_issues": 83,
                 "owner": "MIC-DKFZ",
                 "repo": "nnUNet",
-                "stars": 8999,
+                "stars": 9000,
                 "topics": [
                   "segmentation"
                 ]
@@ -2037,7 +2037,7 @@
                 "open_issues": 128,
                 "owner": "Project-MONAI",
                 "repo": "tutorials",
-                "stars": 2579,
+                "stars": 2580,
                 "topics": [
                   "jupyter-notebook",
                   "monai",
@@ -2064,7 +2064,7 @@
                 "open_issues": 128,
                 "owner": "Project-MONAI",
                 "repo": "tutorials",
-                "stars": 2579,
+                "stars": 2580,
                 "topics": [
                   "jupyter-notebook",
                   "monai",
@@ -2263,7 +2263,7 @@
                 "open_issues": 128,
                 "owner": "Project-MONAI",
                 "repo": "tutorials",
-                "stars": 2579,
+                "stars": 2580,
                 "topics": [
                   "jupyter-notebook",
                   "monai",
@@ -2327,7 +2327,7 @@
             "open_issues": 83,
             "owner": "MIC-DKFZ",
             "repo": "nnUNet",
-            "stars": 8999,
+            "stars": 9000,
             "topics": [
               "segmentation"
             ]
@@ -2350,7 +2350,7 @@
             "open_issues": 533,
             "owner": "Project-MONAI",
             "repo": "MONAI",
-            "stars": 8813,
+            "stars": 8815,
             "topics": [
               "deep-learning",
               "healthcare-imaging",
@@ -2379,7 +2379,7 @@
             "open_issues": 596,
             "owner": "facebookresearch",
             "repo": "segment-anything",
-            "stars": 55085,
+            "stars": 55083,
             "topics": []
           },
           "first_seen": "2026-08-28T21:32:03.559Z"
@@ -2400,7 +2400,7 @@
             "open_issues": 871,
             "owner": "open-mmlab",
             "repo": "mmsegmentation",
-            "stars": 9985,
+            "stars": 9986,
             "topics": [
               "deeplabv3",
               "image-segmentation",
@@ -2461,7 +2461,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T16:20:10.436Z",
+    "last_updated": "2026-11-01T17:16:00.135Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of awesome medical dataset resources.",
