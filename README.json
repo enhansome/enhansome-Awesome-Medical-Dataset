@@ -44,7 +44,7 @@
                     "open_issues": 89,
                     "owner": "wasserth",
                     "repo": "TotalSegmentator",
-                    "stars": 3112,
+                    "stars": 3114,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:32:03.559Z"
@@ -65,7 +65,7 @@
                     "open_issues": 89,
                     "owner": "wasserth",
                     "repo": "TotalSegmentator",
-                    "stars": 3112,
+                    "stars": 3114,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:32:03.559Z"
@@ -107,7 +107,7 @@
                     "open_issues": 89,
                     "owner": "wasserth",
                     "repo": "TotalSegmentator",
-                    "stars": 3112,
+                    "stars": 3114,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:32:03.559Z"
@@ -732,7 +732,7 @@
                     "open_issues": 1,
                     "owner": "smilell",
                     "repo": "AG-CNN",
-                    "stars": 79,
+                    "stars": 80,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:32:03.559Z"
@@ -1067,7 +1067,7 @@
                 "open_issues": 26,
                 "owner": "mahmoodlab",
                 "repo": "HEST",
-                "stars": 447,
+                "stars": 448,
                 "topics": [
                   "computational-pathology",
                   "histology",
@@ -1142,7 +1142,7 @@
                 "open_issues": 0,
                 "owner": "JiawenChenn",
                 "repo": "STimage-1K4M",
-                "stars": 91,
+                "stars": 92,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:32:03.559Z"
@@ -1184,7 +1184,7 @@
                 "open_issues": 0,
                 "owner": "ai4colonoscopy",
                 "repo": "IntelliScope",
-                "stars": 111,
+                "stars": 112,
                 "topics": [
                   "colonoscopy",
                   "colonoscopy-survey",
@@ -1319,7 +1319,7 @@
                 "open_issues": 4,
                 "owner": "FreedomIntelligence",
                 "repo": "Huatuo-26M",
-                "stars": 354,
+                "stars": 355,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:32:03.559Z"
@@ -1484,7 +1484,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-11-03T07:53:49Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "kakoni",
             "repo": "awesome-healthcare",
             "stars": 4043,
@@ -1513,7 +1513,7 @@
             "open_issues": 3,
             "owner": "JunMa11",
             "repo": "SegLossOdyssey",
-            "stars": 4003,
+            "stars": 4002,
             "topics": []
           },
           "first_seen": "2026-08-28T21:32:03.559Z"
@@ -1534,7 +1534,7 @@
             "open_issues": 2,
             "owner": "GanjinZero",
             "repo": "awesome_Chinese_medical_NLP",
-            "stars": 2656,
+            "stars": 2658,
             "topics": [
               "dataset",
               "dictionary",
@@ -1563,7 +1563,7 @@
             "open_issues": 2,
             "owner": "xinario",
             "repo": "awesome-gan-for-medical-imaging",
-            "stars": 2361,
+            "stars": 2362,
             "topics": [
               "ct-denoising",
               "deeplearning",
@@ -1596,7 +1596,7 @@
             "open_issues": 2,
             "owner": "amirhossein-kz",
             "repo": "Awesome-Diffusion-Models-in-Medical-Imaging",
-            "stars": 2115,
+            "stars": 2116,
             "topics": [
               "ddpm",
               "deep-learning",
@@ -1899,7 +1899,7 @@
             "id": 810617149,
             "language": "Jupyter Notebook",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-25T17:12:46Z",
+            "last_commit": "2026-11-04T22:52:13Z",
             "open_issues": 1,
             "owner": "MrGiovanni",
             "repo": "Touchstone",
@@ -1932,11 +1932,11 @@
                 "id": 181846371,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-04T15:50:54Z",
-                "open_issues": 81,
+                "last_commit": "2026-11-05T17:22:19Z",
+                "open_issues": 42,
                 "owner": "MIC-DKFZ",
                 "repo": "nnUNet",
-                "stars": 9013,
+                "stars": 9018,
                 "topics": [
                   "segmentation"
                 ]
@@ -1959,7 +1959,7 @@
                 "open_issues": 17,
                 "owner": "MIC-DKFZ",
                 "repo": "MedNeXt",
-                "stars": 539,
+                "stars": 540,
                 "topics": [
                   "convnext",
                   "ct-segmentation",
@@ -2323,11 +2323,11 @@
             "id": 181846371,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-04T15:50:54Z",
-            "open_issues": 81,
+            "last_commit": "2026-11-05T17:22:19Z",
+            "open_issues": 42,
             "owner": "MIC-DKFZ",
             "repo": "nnUNet",
-            "stars": 9013,
+            "stars": 9018,
             "topics": [
               "segmentation"
             ]
@@ -2346,11 +2346,11 @@
             "id": 214485001,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-03T19:18:26Z",
-            "open_issues": 533,
+            "last_commit": "2026-11-05T17:44:28Z",
+            "open_issues": 538,
             "owner": "Project-MONAI",
             "repo": "MONAI",
-            "stars": 8826,
+            "stars": 8828,
             "topics": [
               "deep-learning",
               "healthcare-imaging",
@@ -2379,7 +2379,7 @@
             "open_issues": 596,
             "owner": "facebookresearch",
             "repo": "segment-anything",
-            "stars": 55096,
+            "stars": 55098,
             "topics": []
           },
           "first_seen": "2026-08-28T21:32:03.559Z"
@@ -2433,7 +2433,7 @@
             "open_issues": 273,
             "owner": "open-mmlab",
             "repo": "mmpretrain",
-            "stars": 3863,
+            "stars": 3862,
             "topics": [
               "beit",
               "clip",
@@ -2461,7 +2461,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T18:53:43.480Z",
+    "last_updated": "2026-11-05T19:03:38.016Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of awesome medical dataset resources.",
@@ -2473,7 +2473,7 @@
       "open_issues": 65,
       "owner": "openmedlab",
       "repo": "Awesome-Medical-Dataset",
-      "stars": 2216,
+      "stars": 2217,
       "topics": []
     },
     "original_repository_sha": "507ef7645e6abd254995aa72deb9a04393a11a98",
