@@ -40,11 +40,11 @@
                     "id": 449681070,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-04T16:18:24Z",
-                    "open_issues": 91,
+                    "last_commit": "2026-11-12T17:43:53Z",
+                    "open_issues": 92,
                     "owner": "wasserth",
                     "repo": "TotalSegmentator",
-                    "stars": 3136,
+                    "stars": 3140,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:32:03.559Z"
@@ -61,11 +61,11 @@
                     "id": 449681070,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-04T16:18:24Z",
-                    "open_issues": 91,
+                    "last_commit": "2026-11-12T17:43:53Z",
+                    "open_issues": 92,
                     "owner": "wasserth",
                     "repo": "TotalSegmentator",
-                    "stars": 3136,
+                    "stars": 3140,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:32:03.559Z"
@@ -103,11 +103,11 @@
                     "id": 449681070,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-04T16:18:24Z",
-                    "open_issues": 91,
+                    "last_commit": "2026-11-12T17:43:53Z",
+                    "open_issues": 92,
                     "owner": "wasserth",
                     "repo": "TotalSegmentator",
-                    "stars": 3136,
+                    "stars": 3140,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:32:03.559Z"
@@ -561,7 +561,7 @@
                     "open_issues": 14,
                     "owner": "CapsuleEndoscope",
                     "repo": "EndoSLAM",
-                    "stars": 310,
+                    "stars": 309,
                     "topics": [
                       "capsule-endoscopy",
                       "monocular-depth-estimation",
@@ -816,7 +816,7 @@
                     "open_issues": 4,
                     "owner": "olivesgatech",
                     "repo": "OLIVES_Dataset",
-                    "stars": 28,
+                    "stars": 29,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:32:03.559Z"
@@ -1340,7 +1340,7 @@
                 "open_issues": 4,
                 "owner": "FreedomIntelligence",
                 "repo": "CMB",
-                "stars": 255,
+                "stars": 256,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:32:03.559Z"
@@ -1899,11 +1899,11 @@
             "id": 810617149,
             "language": "Jupyter Notebook",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-04T22:52:13Z",
+            "last_commit": "2026-11-11T21:24:16Z",
             "open_issues": 1,
             "owner": "MrGiovanni",
             "repo": "Touchstone",
-            "stars": 141,
+            "stars": 144,
             "topics": [
               "benchmark",
               "medical-image-analysis",
@@ -1932,11 +1932,11 @@
                 "id": 181846371,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-10T11:32:31Z",
-                "open_issues": 42,
+                "last_commit": "2026-11-12T13:45:12Z",
+                "open_issues": 32,
                 "owner": "MIC-DKFZ",
                 "repo": "nnUNet",
-                "stars": 9034,
+                "stars": 9035,
                 "topics": [
                   "segmentation"
                 ]
@@ -2037,7 +2037,7 @@
                 "open_issues": 129,
                 "owner": "Project-MONAI",
                 "repo": "tutorials",
-                "stars": 2583,
+                "stars": 2584,
                 "topics": [
                   "jupyter-notebook",
                   "monai",
@@ -2064,7 +2064,7 @@
                 "open_issues": 129,
                 "owner": "Project-MONAI",
                 "repo": "tutorials",
-                "stars": 2583,
+                "stars": 2584,
                 "topics": [
                   "jupyter-notebook",
                   "monai",
@@ -2263,7 +2263,7 @@
                 "open_issues": 129,
                 "owner": "Project-MONAI",
                 "repo": "tutorials",
-                "stars": 2583,
+                "stars": 2584,
                 "topics": [
                   "jupyter-notebook",
                   "monai",
@@ -2323,11 +2323,11 @@
             "id": 181846371,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-10T11:32:31Z",
-            "open_issues": 42,
+            "last_commit": "2026-11-12T13:45:12Z",
+            "open_issues": 32,
             "owner": "MIC-DKFZ",
             "repo": "nnUNet",
-            "stars": 9034,
+            "stars": 9035,
             "topics": [
               "segmentation"
             ]
@@ -2347,10 +2347,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-10T19:56:07Z",
-            "open_issues": 546,
+            "open_issues": 552,
             "owner": "Project-MONAI",
             "repo": "MONAI",
-            "stars": 8837,
+            "stars": 8838,
             "topics": [
               "deep-learning",
               "healthcare-imaging",
@@ -2376,10 +2376,10 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2024-09-18T17:46:55Z",
-            "open_issues": 596,
+            "open_issues": 597,
             "owner": "facebookresearch",
             "repo": "segment-anything",
-            "stars": 55127,
+            "stars": 55129,
             "topics": []
           },
           "first_seen": "2026-08-28T21:32:03.559Z"
@@ -2400,7 +2400,7 @@
             "open_issues": 871,
             "owner": "open-mmlab",
             "repo": "mmsegmentation",
-            "stars": 9991,
+            "stars": 9992,
             "topics": [
               "deeplabv3",
               "image-segmentation",
@@ -2461,7 +2461,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T18:53:44.742Z",
+    "last_updated": "2026-11-12T19:12:00.980Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of awesome medical dataset resources.",
