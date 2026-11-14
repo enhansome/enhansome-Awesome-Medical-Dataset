@@ -44,7 +44,7 @@
                     "open_issues": 92,
                     "owner": "wasserth",
                     "repo": "TotalSegmentator",
-                    "stars": 3141,
+                    "stars": 3148,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:32:03.559Z"
@@ -65,7 +65,7 @@
                     "open_issues": 92,
                     "owner": "wasserth",
                     "repo": "TotalSegmentator",
-                    "stars": 3141,
+                    "stars": 3148,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:32:03.559Z"
@@ -107,7 +107,7 @@
                     "open_issues": 92,
                     "owner": "wasserth",
                     "repo": "TotalSegmentator",
-                    "stars": 3141,
+                    "stars": 3148,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:32:03.559Z"
@@ -1067,7 +1067,7 @@
                 "open_issues": 26,
                 "owner": "mahmoodlab",
                 "repo": "HEST",
-                "stars": 449,
+                "stars": 450,
                 "topics": [
                   "computational-pathology",
                   "histology",
@@ -1142,7 +1142,7 @@
                 "open_issues": 0,
                 "owner": "JiawenChenn",
                 "repo": "STimage-1K4M",
-                "stars": 92,
+                "stars": 93,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:32:03.559Z"
@@ -1487,7 +1487,7 @@
             "open_issues": 4,
             "owner": "kakoni",
             "repo": "awesome-healthcare",
-            "stars": 4049,
+            "stars": 4050,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1634,7 +1634,7 @@
             "open_issues": 2,
             "owner": "JunMa11",
             "repo": "SOTA-MedSeg",
-            "stars": 1680,
+            "stars": 1681,
             "topics": [
               "image",
               "medical",
@@ -1936,7 +1936,7 @@
                 "open_issues": 32,
                 "owner": "MIC-DKFZ",
                 "repo": "nnUNet",
-                "stars": 9036,
+                "stars": 9042,
                 "topics": [
                   "segmentation"
                 ]
@@ -2037,7 +2037,7 @@
                 "open_issues": 129,
                 "owner": "Project-MONAI",
                 "repo": "tutorials",
-                "stars": 2584,
+                "stars": 2585,
                 "topics": [
                   "jupyter-notebook",
                   "monai",
@@ -2064,7 +2064,7 @@
                 "open_issues": 129,
                 "owner": "Project-MONAI",
                 "repo": "tutorials",
-                "stars": 2584,
+                "stars": 2585,
                 "topics": [
                   "jupyter-notebook",
                   "monai",
@@ -2263,7 +2263,7 @@
                 "open_issues": 129,
                 "owner": "Project-MONAI",
                 "repo": "tutorials",
-                "stars": 2584,
+                "stars": 2585,
                 "topics": [
                   "jupyter-notebook",
                   "monai",
@@ -2327,7 +2327,7 @@
             "open_issues": 32,
             "owner": "MIC-DKFZ",
             "repo": "nnUNet",
-            "stars": 9036,
+            "stars": 9042,
             "topics": [
               "segmentation"
             ]
@@ -2379,7 +2379,7 @@
             "open_issues": 597,
             "owner": "facebookresearch",
             "repo": "segment-anything",
-            "stars": 55131,
+            "stars": 55136,
             "topics": []
           },
           "first_seen": "2026-08-28T21:32:03.559Z"
@@ -2461,7 +2461,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T18:48:29.069Z",
+    "last_updated": "2026-11-14T17:19:40.962Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of awesome medical dataset resources.",
@@ -2473,7 +2473,7 @@
       "open_issues": 65,
       "owner": "openmedlab",
       "repo": "Awesome-Medical-Dataset",
-      "stars": 2225,
+      "stars": 2227,
       "topics": []
     },
     "original_repository_sha": "507ef7645e6abd254995aa72deb9a04393a11a98",
