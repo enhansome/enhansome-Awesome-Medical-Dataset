@@ -40,11 +40,11 @@
                     "id": 449681070,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-12T17:43:53Z",
+                    "last_commit": "2026-11-16T12:38:51Z",
                     "open_issues": 92,
                     "owner": "wasserth",
                     "repo": "TotalSegmentator",
-                    "stars": 3149,
+                    "stars": 3153,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:32:03.559Z"
@@ -61,11 +61,11 @@
                     "id": 449681070,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-12T17:43:53Z",
+                    "last_commit": "2026-11-16T12:38:51Z",
                     "open_issues": 92,
                     "owner": "wasserth",
                     "repo": "TotalSegmentator",
-                    "stars": 3149,
+                    "stars": 3153,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:32:03.559Z"
@@ -103,11 +103,11 @@
                     "id": 449681070,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-12T17:43:53Z",
+                    "last_commit": "2026-11-16T12:38:51Z",
                     "open_issues": 92,
                     "owner": "wasserth",
                     "repo": "TotalSegmentator",
-                    "stars": 3149,
+                    "stars": 3153,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:32:03.559Z"
@@ -1256,7 +1256,7 @@
                 "open_issues": 4,
                 "owner": "zhangsheng93",
                 "repo": "cMedQA2",
-                "stars": 395,
+                "stars": 396,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:32:03.559Z"
@@ -1298,7 +1298,7 @@
                 "open_issues": 17,
                 "owner": "jind11",
                 "repo": "MedQA",
-                "stars": 410,
+                "stars": 411,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:32:03.559Z"
@@ -1484,10 +1484,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-11-11T08:07:29Z",
-            "open_issues": 7,
+            "open_issues": 8,
             "owner": "kakoni",
             "repo": "awesome-healthcare",
-            "stars": 4051,
+            "stars": 4052,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1728,7 +1728,7 @@
             "open_issues": 1,
             "owner": "zhaozh10",
             "repo": "Awesome-CLIP-in-Medical-Imaging",
-            "stars": 515,
+            "stars": 516,
             "topics": []
           },
           "first_seen": "2026-08-28T21:32:03.559Z"
@@ -1936,7 +1936,7 @@
                 "open_issues": 32,
                 "owner": "MIC-DKFZ",
                 "repo": "nnUNet",
-                "stars": 9043,
+                "stars": 9046,
                 "topics": [
                   "segmentation"
                 ]
@@ -2016,7 +2016,7 @@
                 "open_issues": 15,
                 "owner": "ljwztc",
                 "repo": "CLIP-Driven-Universal-Model",
-                "stars": 679,
+                "stars": 680,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:32:03.559Z"
@@ -2091,7 +2091,7 @@
                 "open_issues": 15,
                 "owner": "ljwztc",
                 "repo": "CLIP-Driven-Universal-Model",
-                "stars": 679,
+                "stars": 680,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:32:03.559Z"
@@ -2242,7 +2242,7 @@
                 "open_issues": 14,
                 "owner": "BAAI-DCAI",
                 "repo": "SegVol",
-                "stars": 394,
+                "stars": 395,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:32:03.559Z"
@@ -2327,7 +2327,7 @@
             "open_issues": 32,
             "owner": "MIC-DKFZ",
             "repo": "nnUNet",
-            "stars": 9043,
+            "stars": 9046,
             "topics": [
               "segmentation"
             ]
@@ -2347,7 +2347,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-13T14:07:18Z",
-            "open_issues": 557,
+            "open_issues": 560,
             "owner": "Project-MONAI",
             "repo": "MONAI",
             "stars": 8843,
@@ -2379,7 +2379,7 @@
             "open_issues": 597,
             "owner": "facebookresearch",
             "repo": "segment-anything",
-            "stars": 55135,
+            "stars": 55144,
             "topics": []
           },
           "first_seen": "2026-08-28T21:32:03.559Z"
@@ -2461,7 +2461,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T18:00:18.284Z",
+    "last_updated": "2026-11-16T21:16:12.628Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of awesome medical dataset resources.",
@@ -2473,7 +2473,7 @@
       "open_issues": 65,
       "owner": "openmedlab",
       "repo": "Awesome-Medical-Dataset",
-      "stars": 2228,
+      "stars": 2231,
       "topics": []
     },
     "original_repository_sha": "507ef7645e6abd254995aa72deb9a04393a11a98",
