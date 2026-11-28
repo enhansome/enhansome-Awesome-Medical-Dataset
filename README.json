@@ -41,10 +41,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-11-25T15:49:22Z",
-                    "open_issues": 93,
+                    "open_issues": 94,
                     "owner": "wasserth",
                     "repo": "TotalSegmentator",
-                    "stars": 3194,
+                    "stars": 3198,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:32:03.559Z"
@@ -62,10 +62,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-11-25T15:49:22Z",
-                    "open_issues": 93,
+                    "open_issues": 94,
                     "owner": "wasserth",
                     "repo": "TotalSegmentator",
-                    "stars": 3194,
+                    "stars": 3198,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:32:03.559Z"
@@ -104,10 +104,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-11-25T15:49:22Z",
-                    "open_issues": 93,
+                    "open_issues": 94,
                     "owner": "wasserth",
                     "repo": "TotalSegmentator",
-                    "stars": 3194,
+                    "stars": 3198,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:32:03.559Z"
@@ -336,7 +336,7 @@
                     "open_issues": 2,
                     "owner": "MrGiovanni",
                     "repo": "AbdomenAtlas",
-                    "stars": 312,
+                    "stars": 313,
                     "topics": [
                       "dataset",
                       "multi-organ-segmentation"
@@ -1067,7 +1067,7 @@
                 "open_issues": 27,
                 "owner": "mahmoodlab",
                 "repo": "HEST",
-                "stars": 452,
+                "stars": 453,
                 "topics": [
                   "computational-pathology",
                   "histology",
@@ -1487,7 +1487,7 @@
             "open_issues": 20,
             "owner": "kakoni",
             "repo": "awesome-healthcare",
-            "stars": 4068,
+            "stars": 4070,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1936,7 +1936,7 @@
                 "open_issues": 20,
                 "owner": "MIC-DKFZ",
                 "repo": "nnUNet",
-                "stars": 9082,
+                "stars": 9083,
                 "topics": [
                   "segmentation"
                 ]
@@ -2327,7 +2327,7 @@
             "open_issues": 20,
             "owner": "MIC-DKFZ",
             "repo": "nnUNet",
-            "stars": 9082,
+            "stars": 9083,
             "topics": [
               "segmentation"
             ]
@@ -2346,11 +2346,11 @@
             "id": 214485001,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-27T00:08:07Z",
+            "last_commit": "2026-11-27T23:47:05Z",
             "open_issues": 564,
             "owner": "Project-MONAI",
             "repo": "MONAI",
-            "stars": 8876,
+            "stars": 8875,
             "topics": [
               "deep-learning",
               "healthcare-imaging",
@@ -2379,7 +2379,7 @@
             "open_issues": 599,
             "owner": "facebookresearch",
             "repo": "segment-anything",
-            "stars": 55189,
+            "stars": 55192,
             "topics": []
           },
           "first_seen": "2026-08-28T21:32:03.559Z"
@@ -2400,7 +2400,7 @@
             "open_issues": 871,
             "owner": "open-mmlab",
             "repo": "mmsegmentation",
-            "stars": 9987,
+            "stars": 9988,
             "topics": [
               "deeplabv3",
               "image-segmentation",
@@ -2461,7 +2461,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T20:20:36.289Z",
+    "last_updated": "2026-11-28T19:09:13.245Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of awesome medical dataset resources.",
